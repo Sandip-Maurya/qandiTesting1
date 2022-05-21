@@ -1,0 +1,1351 @@
+Sr.No,Exam,Subject,Unit,Chapter,Topic,Status,Topic ID
+1,JEE,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Colloids and Emulsions,InActive,4714
+2,JEE,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Adsorption & Catalysis,InActive,4713
+3,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrochemical Cells and Batteries,InActive,4712
+4,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Defects and Electrical and Magnetic Properties of Solids,InActive,4711
+5,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Packing efficiency (Closed Packing of spheres) and voids,InActive,4710
+6,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Types of Solids and their properties,InActive,4709
+7,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Raoult's Law and Ideal solutions,InActive,4708
+8,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Solubility and Vapour Pressure of Liquid Solutions,InActive,4707
+9,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Solution and Concentration Terms,InActive,4706
+10,JEE,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Water- Hard and Soft water,InActive,4705
+11,JEE,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Hydrogen and its Compounds,InActive,4704
+12,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Important Compounds and Uses of Group 1 and 2 elements,InActive,4703
+13,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Group 2-Introduction and Properties,InActive,4702
+14,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Group 1-Introduction and Properties,InActive,4701
+15,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Important Compounds and Uses of Group 13 and 14 elements,InActive,4700
+16,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Group 14 -Introduction and Properties,InActive,4699
+17,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Group 13 -Introduction and Properties,InActive,4698
+18,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,"Dipole Moment, Percentage Ionic Character, Fajan's Rule",InActive,4697
+19,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Ionic and Covalent Bonding and its applications,InActive,4696
+20,JEE,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Periodic Properties and its applications,InActive,4695
+21,JEE,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Periodic Table,InActive,4694
+22,JEE,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Techniques to Control Pollution,InActive,4693
+23,JEE,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Pollution and its Types,InActive,4692
+24,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Reduction and Refining of Ores,InActive,4691
+25,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Principles of Metallurgy,InActive,4690
+26,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,"Occurrence, Concentration and conversion to oxide of Ores",InActive,4689
+27,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Group 17 and 18-Important Compounds and Uses,InActive,4688
+28,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Group 18-Introduction and Properties,InActive,4687
+29,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Group 17-Introduction and Properties,InActive,4686
+30,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Group 16-Introduction and Properties,InActive,4685
+31,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Group 15-Introduction and Properties,InActive,4684
+32,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Lanthanoids and Actinoids-Introduction and Properties and Uses,InActive,4683
+33,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Important Compounds and USES of d and f-Block metals,InActive,4682
+34,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,d and f block elements- Introduction and Properties,InActive,4681
+35,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Chelation in Coordination Compounds,InActive,4680
+36,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,"Introduction, Werner's Theory and Nomenclature",InActive,4679
+37,JEE,Chemistry,Organic Chemistry(OC-2),Polymers,Important Polymers,InActive,4678
+38,JEE,Chemistry,Organic Chemistry(OC-2),Polymers,Polymers and their Molecular Masses,InActive,4677
+39,JEE,Chemistry,Organic Chemistry(OC-2),Biomolecules,"Vitamins, Nucleic Acids and Hormones",InActive,4676
+40,JEE,Chemistry,Organic Chemistry(OC-2),Biomolecules,"Proteins, Amino Acids and Enzymes",InActive,4675
+41,JEE,Chemistry,Organic Chemistry(OC-2),Biomolecules,Carbohydrates and Glucose,InActive,4674
+42,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Properties of Haloalkanes and Haloarenes and Polyhalogen Compounds,InActive,4673
+43,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Preparations of Haloalkanes and Haloarenes,InActive,4672
+44,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Haloalkanes and Haloarenes-Classification and Nomenclature,InActive,4671
+45,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids","Carboxylic Acids-Introduction, Preparation and Properties",InActive,4670
+46,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids","Aldehydes and Ketones-Introduction, Preparation and Properties",InActive,4669
+47,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids","Introduction and Uses of Aldehydes, Ketones and Carboxylic Acids",InActive,4668
+48,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers","Ethers-Introduction, Preparation and Properties",InActive,4667
+49,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers","Phenols-Introduction, Preparation and Properties",InActive,4666
+50,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers","Alcohols-Introduction, Preparation and Properties and Tests",InActive,4665
+51,JEE,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Chemicals in Food Products and Cleansing Agents,InActive,4664
+52,JEE,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Drug-Types and Action,InActive,4663
+53,JEE,Chemistry,Organic Chemistry(OC-2),Amines,"Diazonium Salt-Preparation, properties and applications",InActive,4662
+54,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Amines-Preparation and properties,InActive,4661
+55,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,"Bohr's Model, De-broglie wavelength, Heisenberg Uncertainity Principle",InActive,4660
+56,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Particle Nature of light and Photoelectric effect,InActive,4659
+57,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Atomic Models and Electromagnetic Spectrum,InActive,4658
+58,JEE,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Applications of Redox reactions,InActive,4657
+59,JEE,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Redox Reactions and its balancing,InActive,4656
+60,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Le chatelier's principle and Thermodynamics of Equilibrium,InActive,4655
+61,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Equilibrium Constants and its applications,InActive,4654
+62,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Law of Chemical Equilibrium,InActive,4653
+63,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Introduction to Equilibrium,InActive,4652
+64,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Real Gas and its properties,InActive,4651
+65,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Gaseous Laws and Dalton's law,InActive,4650
+66,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,"Buffer Solutions, Indicators and its applications",InActive,4649
+67,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,"Ionic Equilibrium, Acids, Bases and Salts and Dissociation of water",InActive,4648
+68,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,"Spontaneity, Entropy and Second and Third Law",InActive,4647
+69,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Enthalpies and Bond Energy,InActive,4646
+70,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Basics of Thermodynamics and First Law,InActive,4645
+71,JEE,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Mole Concept and Empirical and Molecular Formulae,InActive,4644
+72,JEE,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Miscellaneous Concepts of Atoms,InActive,4643
+73,JEE,Physics,"Oscillations , Waves and Sound",Oscillations,SHM,InActive,4642
+74,JEE,Physics,"Oscillations , Waves and Sound",Waves,Interference and the Principle of Superposition,InActive,4641
+75,JEE,Physics,"Oscillations , Waves and Sound",Waves,Travelling waves,InActive,4640
+76,JEE,Physics,"Oscillations , Waves and Sound",Sound,Loudness and factors affecting speed of sound,InActive,4639
+77,JEE,Physics,"Oscillations , Waves and Sound",Sound,Sound waves,InActive,4638
+78,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Purification Methods and Analysis of Organic Compounds,InActive,4637
+79,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Isomerism in Organic Compounds,InActive,4636
+80,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,IUPAC nomenclature of Organic Compounds,InActive,4635
+81,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Reaction Intermediates,InActive,4634
+82,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Electronic Effects and its applications,InActive,4633
+83,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Organic Reaction Mechanism-Introduction,InActive,4632
+84,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation and Properties of Aromatic Hydrocarbons,InActive,4631
+85,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation and Properties of Alkynes,InActive,4630
+86,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation and Properties of Alkenes,InActive,4629
+87,JEE,Physics,Magnetism and Electromagnetic Induction,Alternating current,AC circuits,InActive,4628
+88,JEE,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Coulomb's law and its applications,InActive,4627
+89,JEE,Physics,Electrostatics and Current Electricity,Current Electricity,Electrical cell and circuits,InActive,4626
+90,JEE,Physics,OPTICS,Wave Optics,"Scattering, Diffraction and Polarisation",InActive,4625
+91,JEE,Physics,Thermodynamics,Transmission of Heat,Radiation and Convection,InActive,4624
+92,JEE,Physics,Thermodynamics,Kinetic Theory of Gases,Gas Laws,InActive,4623
+93,JEE,Physics,MECHANICS -2,Mechanical Properties of Fluids,Thrust and pressure,InActive,4622
+94,JEE,Physics,MECHANICS -2,System of Particles and Rotational Motion,Mechanics of rotational motion,InActive,4621
+95,JEE,Physics,MECHANICS -2,"Center of Mass , Conservation of Linear Momentum and Collision",Impulse and collision,InActive,4620
+96,JEE,Physics,MECHANICS -1,Laws of Motion and friction,Applications of Newton's laws of Motion,InActive,4619
+97,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,"Preparation, Physical and Chemical Properties of Alkanes",InActive,4618
+98,JEE,Physics,MECHANICS -1,Vectors,Algebra of Vectors,InActive,4617
+99,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,"Alkanes, Alkenes and Alkynes",InActive,4616
+100,JEE,Physics,MECHANICS -1,Motion in a straight line,Equations of motion,InActive,4615
+101,JEE,Physics,MECHANICS -1,Work Power Energy,Conservation of Mechanical Energy,InActive,4614
+102,JEE,Mathematics,Algebra,Matrices and Determinants,Basics and Algebra of Matrices,Active,4613
+103,JEE,Mathematics,Trigonometry,Trigonometric Ratios and Identities,Range and Graph of Trigonometric Expressions,Active,4612
+104,JEE,Mathematics,Algebra,"Set, Relation, Interval and Logarithm",Basics and Algebra of Sets,Active,4611
+105,JEE,Mathematics,Coordinate Geometry,Parabola,Basics of Parabola,Active,4610
+106,JEE,Mathematics,Algebra,Mathematical Reasoning,Basics of Mathematical Reasoning,Active,4609
+107,JEE,Mathematics,Coordinate Geometry,Hyperbola,Basics of Hyperbola,Active,4608
+108,JEE,Mathematics,Coordinate Geometry,Ellipse,Basics of Ellipse,Active,4607
+109,JEE,Mathematics,Algebra,Complex Numbers,Basics and Algebra of Complex Numbers,Active,4606
+110,JEE,Mathematics,Trigonometry,Solution of Triangle or Properties of Triangle,Other SOT concepts,Active,4605
+111,JEE,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Colloids and Emulsions,InActive,4604
+112,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Important Atomic Terms,Active,4603
+113,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Nuclear Chemistry,Active,4602
+114,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Nuclear Chemistry,Active,4601
+115,NEET,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Nuclear Chemistry,Active,4600
+116,JEE,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Nuclear Chemistry,Active,4599
+117,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Third Law of Thermodynamics,Active,4598
+118,NEET,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Third Law of Thermodynamics,Active,4597
+119,JEE,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Electron Gain Enthalpy and its Applications,Active,4595
+120,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Graham's law of diffusion,Active,4594
+121,NEET,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Graham's law of diffusion,Active,4593
+122,NEET,Physics,Electrostatics and Current Electricity,Current Electricity,Electrolytic Cell,Active,4592
+123,NEET,Physics,MECHANICS -1,Vectors,Scalars and Vectors,Active,4591
+124,JEE,Physics,MECHANICS -1,Vectors,Scalars and Vectors,Active,4590
+125,NEET,Physics,OPTICS,Wave Optics,Scaterring of Light,Active,4589
+126,JEE,Physics,OPTICS,Wave Optics,Scaterring of Light,Active,4588
+127,NEET,Physics,MODERN PHYSICS,Atoms,"Isotopes, IsoBars, IsoElectronic & Isotones",Active,4587
+128,JEE,Physics,MODERN PHYSICS,Atoms,"Isotopes, IsoBars, IsoElectronic & Isotones",Active,4586
+129,NEET,Physics,MECHANICS -1,Motion in a plane,General 2-D Motion,Active,4585
+130,JEE,Physics,MECHANICS -1,Motion in a plane,General 2-D motion,Active,4583
+131,JEE,Mathematics,Differential Calculus,Limits,Advance Methods of Evaluation of Limits,Active,4582
+132,NEET,Chemistry,Organic Chemistry(OC-1),Stereochemistry and related concepts,"Specific rotation, racemisation and racemic mixture",Active,4579
+133,JEE,Physics,Electrostatics and Current Electricity,Current Electricity,Electrolytic Cell,Active,4578
+134,NEET,Zoology,Structural Organization in Plants and Animals (Z),Structural Organization in Animals,Animal Tissues,Active,4575
+135,NEET,Botany,Ecology,Biodiversity and Conservation,Biodiversity and conservation,Active,4564
+136,NEET,Botany,Ecology,Biodiversity and Conservation,Biodiversity,Active,4563
+137,NEET,Botany,Ecology,Environmental Issues,Air pollution and its control,Active,4565
+138,NEET,Botany,Ecology,Environmental Issues,Water Pollution and its control,Active,4566
+139,NEET,Botany,Ecology,Environmental Issues,Solid wastes,Active,4567
+140,NEET,Botany,Ecology,Environmental Issues,Agro-chemicals and their effects,Active,4568
+141,NEET,Botany,Ecology,Environmental Issues,Radioactive waste,Active,4569
+142,NEET,Botany,Ecology,Environmental Issues,Greenhouse effect and global warming,Active,4570
+143,NEET,Botany,Ecology,Environmental Issues,Ozone depletion in the stratosphere,Active,4571
+144,NEET,Botany,Ecology,Environmental Issues,Degradation by Improper resource utilisation and maintenance,Active,4572
+145,NEET,Botany,Ecology,Environmental Issues,Deforestation,Active,4573
+146,NEET,Botany,Ecology,Ecosystem,Ecosystem- Structure and Function,Active,4555
+147,NEET,Botany,Ecology,Ecosystem,Productivity,Active,4556
+148,NEET,Botany,Ecology,Ecosystem,Decomposition,Active,4557
+149,NEET,Botany,Ecology,Ecosystem,Energy flow,Active,4558
+150,NEET,Botany,Ecology,Ecosystem,Ecological pyramids,Active,4559
+151,NEET,Botany,Ecology,Ecosystem,Ecological succession,Active,4560
+152,NEET,Botany,Ecology,Ecosystem,Nutrient cycling and Ecosystem services,Active,4561
+153,NEET,Botany,Ecology,Organisms and Populations,Environment,Active,4552
+154,NEET,Botany,Ecology,Organisms and Populations,Organism and its environment,Active,4553
+155,NEET,Botany,Ecology,Organisms and Populations,Populations,Active,4554
+156,NEET,Zoology,Biotechnology,Biotechnology and its applications,Biotechnological Applications in Agriculture,Active,4548
+157,NEET,Zoology,Biotechnology,Biotechnology and its applications,Biotechnological Applications in Medicine,Active,4549
+158,NEET,Zoology,Biotechnology,Biotechnology and its applications,Transgenic animals,Active,4550
+159,NEET,Zoology,Biotechnology,Biotechnology and its applications,Ethical issues,Active,4551
+160,NEET,Zoology,Biotechnology,Biotechnology : Principles and Processes,Principles of Biotechnology,Active,4544
+161,NEET,Zoology,Biotechnology,Biotechnology : Principles and Processes,Tools of Recombinant DNA technology,Active,4545
+162,NEET,Zoology,Biotechnology,Biotechnology : Principles and Processes,Techniques used in RDT,Active,4546
+163,NEET,Zoology,Biotechnology,Biotechnology : Principles and Processes,Processes of Recombinant DNA Technology,Active,4547
+164,NEET,Botany,Biology in Human Welfare (B),Microbes in Human Welfare,Microbes in household products,Active,4538
+165,NEET,Botany,Biology in Human Welfare (B),Microbes in Human Welfare,Microbes in Industrial products,Active,4539
+166,NEET,Botany,Biology in Human Welfare (B),Microbes in Human Welfare,Microbes in sewage treatment,Active,4540
+167,NEET,Botany,Biology in Human Welfare (B),Microbes in Human Welfare,Microbes in production of biogas,Active,4541
+168,NEET,Botany,Biology in Human Welfare (B),Microbes in Human Welfare,Microbes as biocontrol agents,Active,4542
+169,NEET,Botany,Biology in Human Welfare (B),Microbes in Human Welfare,Microbes as biofertilizers,Active,4543
+170,NEET,Zoology,Biology in Human Welfare (Z),Strategies for Enhancement in Food Production,Animal Husbandry,Active,4534
+171,NEET,Zoology,Biology in Human Welfare (Z),Strategies for Enhancement in Food Production,Plant breeding,Active,4535
+172,NEET,Zoology,Biology in Human Welfare (Z),Strategies for Enhancement in Food Production,Tissue Culture & Single cell protein,Active,4537
+173,NEET,Zoology,Biology in Human Welfare (Z),Human Health and Disease,Common diseases in humans,Active,4529
+174,NEET,Zoology,Biology in Human Welfare (Z),Human Health and Disease,Immunity,Active,4530
+175,NEET,Zoology,Biology in Human Welfare (Z),Human Health and Disease,AIDS,Active,4531
+176,NEET,Zoology,Biology in Human Welfare (Z),Human Health and Disease,Cancer,Active,4532
+177,NEET,Zoology,Biology in Human Welfare (Z),Human Health and Disease,Drugs and Alcohol abuse,Active,4533
+178,NEET,Zoology,Genetics and Evolution (Z),Evolution,Origin of life,Active,4520
+179,NEET,Zoology,Genetics and Evolution (Z),Evolution,Evolution of life forms - a theory,Active,4521
+180,NEET,Zoology,Genetics and Evolution (Z),Evolution,What are the evidences for evolution ?,Active,4522
+181,NEET,Zoology,Genetics and Evolution (Z),Evolution,What is adaptive radiation ?,Active,4523
+182,NEET,Zoology,Genetics and Evolution (Z),Evolution,Biological evolution,Active,4524
+183,NEET,Zoology,Genetics and Evolution (Z),Evolution,Mechanism of evolution,Active,4525
+184,NEET,Zoology,Genetics and Evolution (Z),Evolution,Hardy-Weinberg principle,Active,4526
+185,NEET,Zoology,Genetics and Evolution (Z),Evolution,A brief account of evolution,Active,4527
+186,NEET,Zoology,Genetics and Evolution (Z),Evolution,Origin and Evolution of Man,Active,4528
+187,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,The DNA,Active,4508
+188,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,The search for genetic material,Active,4509
+189,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,RNA world,Active,4510
+190,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,Replication,Active,4511
+191,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,Transcription,Active,4512
+192,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,Genetic code,Active,4513
+193,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,Translation,InActive,4514
+194,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,Regulation of gene expression,Active,4515
+195,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,Translation,Active,4516
+196,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,Human & Rice Genome Project,Active,4517
+197,NEET,Botany,Genetics and Evolution (B),Molecular basis of Inheritance,DNA fingerprinting,Active,4519
+198,NEET,Botany,Genetics and Evolution (B),Principles of inheritance and variation,Genetic terminologies,Active,4500
+199,NEET,Botany,Genetics and Evolution (B),Principles of inheritance and variation,Mendel's Laws of inheritance,Active,4501
+200,NEET,Botany,Genetics and Evolution (B),Principles of inheritance and variation,Inheritance of one gene,Active,4502
+201,NEET,Botany,Genetics and Evolution (B),Principles of inheritance and variation,Inheritance of two genes,Active,4503
+202,NEET,Botany,Genetics and Evolution (B),Principles of inheritance and variation,Post-Mendelian Inheritance,Active,4504
+203,NEET,Botany,Genetics and Evolution (B),Principles of inheritance and variation,Sex determination,Active,4505
+204,NEET,Botany,Genetics and Evolution (B),Principles of inheritance and variation,Mutation,Active,4506
+205,NEET,Botany,Genetics and Evolution (B),Principles of inheritance and variation,Genetic disorders,Active,4507
+206,NEET,Zoology,Reproduction (Z),Reproductive Health,Reproductive health - Problems and strategies,Active,4495
+207,NEET,Zoology,Reproduction (Z),Reproductive Health,Population explosion and birth control,Active,4496
+208,NEET,Zoology,Reproduction (Z),Reproductive Health,Medical termination of pregnancy,Active,4497
+209,NEET,Zoology,Reproduction (Z),Reproductive Health,Sexually transmitted diseases,Active,4498
+210,NEET,Zoology,Reproduction (Z),Reproductive Health,Infertility,Active,4499
+211,NEET,Zoology,Reproduction (Z),Human Reproduction,The Male reproductive system,Active,4488
+212,NEET,Zoology,Reproduction (Z),Human Reproduction,The Female reproductive system,Active,4489
+213,NEET,Zoology,Reproduction (Z),Human Reproduction,Gametogenesis,Active,4490
+214,NEET,Zoology,Reproduction (Z),Human Reproduction,Menstrual cycle,Active,4491
+215,NEET,Zoology,Reproduction (Z),Human Reproduction,Fertilisation and Implantation,Active,4492
+216,NEET,Zoology,Reproduction (Z),Human Reproduction,"Pregnancy, Cleavage and Embryonic development",Active,4493
+217,NEET,Zoology,Reproduction (Z),Human Reproduction,Parturition and Lactation,Active,4494
+218,NEET,Botany,Reproduction (B),Sexual reproduction in flowering plants,Flower,Active,4483
+219,NEET,Botany,Reproduction (B),Sexual reproduction in flowering plants,Pre-fertilization : Structure and Events,Active,4484
+220,NEET,Botany,Reproduction (B),Sexual reproduction in flowering plants,Double Fertilisation,Active,4485
+221,NEET,Botany,Reproduction (B),Sexual reproduction in flowering plants,Post-Fertilisation : Structure and Events,Active,4486
+222,NEET,Botany,Reproduction (B),Sexual reproduction in flowering plants,Apomixis and Polyembryony,Active,4487
+223,NEET,Zoology,Reproduction (Z),Reproduction in organisms,Asexual Reproduction,Active,4481
+224,NEET,Zoology,Reproduction (Z),Reproduction in organisms,Sexual Reproduction,Active,4482
+225,NEET,Zoology,Human Physiology,Chemical Coordination and Integration,Endocrine glands and hormones,Active,4477
+226,NEET,Zoology,Human Physiology,Chemical Coordination and Integration,Human Endocrine system,Active,4478
+227,NEET,Zoology,Human Physiology,Chemical Coordination and Integration,"Hormones of heart, Kidney and gastrointestinal tract",Active,4479
+228,NEET,Zoology,Human Physiology,Chemical Coordination and Integration,Mechanism of hormone action,Active,4480
+229,NEET,Zoology,Human Physiology,Neural Control and Coordination,Human Neural System,InActive,4471
+230,NEET,Zoology,Human Physiology,Neural Control and Coordination,Neuron as structural and functional unit of neural system,Active,4472
+231,NEET,Zoology,Human Physiology,Neural Control and Coordination,Central nervous system,Active,4473
+232,NEET,Zoology,Human Physiology,Neural Control and Coordination,Peripheral Nervous system,Active,4474
+233,NEET,Zoology,Human Physiology,Neural Control and Coordination,Reflex action and Reflex arc,Active,4475
+234,NEET,Zoology,Human Physiology,Neural Control and Coordination,Sensory reception and processing,Active,4476
+235,NEET,Zoology,Human Physiology,Locomotion and Movement,Muscles,Active,4466
+236,NEET,Zoology,Human Physiology,Locomotion and Movement,Skeletal system,Active,4467
+237,NEET,Zoology,Human Physiology,Locomotion and Movement,Joints,Active,4468
+238,NEET,Zoology,Human Physiology,Locomotion and Movement,Disorders of Muscular and Skeletal system,Active,4469
+239,NEET,Zoology,Human Physiology,Excretory Products and their Elimination,Disorders of the excretory system,Active,4464
+240,NEET,Zoology,Human Physiology,Excretory Products and their Elimination,Types of Excretory products,Active,4456
+241,NEET,Zoology,Human Physiology,Excretory Products and their Elimination,Human Excretory system,Active,4457
+242,NEET,Zoology,Human Physiology,Excretory Products and their Elimination,Urine Formation,Active,4458
+243,NEET,Zoology,Human Physiology,Excretory Products and their Elimination,Function of the Tubules,Active,4459
+244,NEET,Zoology,Human Physiology,Excretory Products and their Elimination,Mechanism of Concentration of the Filtrate,Active,4460
+245,NEET,Zoology,Human Physiology,Excretory Products and their Elimination,Regulation of Kidney function,Active,4461
+246,NEET,Zoology,Human Physiology,Excretory Products and their Elimination,Micturition,Active,4462
+247,NEET,Zoology,Human Physiology,Excretory Products and their Elimination,Role of other Organs in Excretion,Active,4463
+248,NEET,Zoology,Human Physiology,Body Fluids and Circulation,Blood,Active,4450
+249,NEET,Zoology,Human Physiology,Body Fluids and Circulation,Lymph,Active,4451
+250,NEET,Zoology,Human Physiology,Body Fluids and Circulation,Circulatory Pathways,Active,4452
+251,NEET,Zoology,Human Physiology,Body Fluids and Circulation,Double Circulation,Active,4453
+252,NEET,Zoology,Human Physiology,Body Fluids and Circulation,Regulation of cardiac Activity,Active,4454
+253,NEET,Zoology,Human Physiology,Body Fluids and Circulation,Disorders of Circulatory system,Active,4455
+254,NEET,Zoology,Human Physiology,Breathing and Exchange of Gases,Respiratory Organs,Active,4444
+255,NEET,Zoology,Human Physiology,Breathing and Exchange of Gases,Mechanism of Breathing,Active,4445
+256,NEET,Zoology,Human Physiology,Breathing and Exchange of Gases,Exchange of gases,Active,4446
+257,NEET,Zoology,Human Physiology,Breathing and Exchange of Gases,Transport of Gases,Active,4447
+258,NEET,Zoology,Human Physiology,Breathing and Exchange of Gases,Regulation of Respiration,Active,4448
+259,NEET,Zoology,Human Physiology,Breathing and Exchange of Gases,Disorders of Respiratory system,Active,4449
+260,NEET,Zoology,Human Physiology,Digestion and Absorption,Digestive system,Active,4440
+261,NEET,Zoology,Human Physiology,Digestion and Absorption,Digestion of Food,Active,4441
+262,NEET,Zoology,Human Physiology,Digestion and Absorption,Absorption of Digested Products,Active,4442
+263,NEET,Zoology,Human Physiology,Digestion and Absorption,Disorders of Digestive system,Active,4443
+264,NEET,Botany,Plant Physiology,Plant Growth and Development,Growth,Active,4434
+265,NEET,Botany,Plant Physiology,Plant Growth and Development,"Differentiation, dedifferentiation, Redifferentiation and Development",Active,4436
+266,NEET,Botany,Plant Physiology,Plant Growth and Development,Plant growth regulators,Active,4437
+267,NEET,Botany,Plant Physiology,Plant Growth and Development,Photoperiodism,Active,4438
+268,NEET,Botany,Plant Physiology,Plant Growth and Development,Vernalisation,Active,4439
+269,NEET,Botany,Plant Physiology,Respiration in Plants,The Respiratory Balance Sheet,Active,4431
+270,NEET,Botany,Plant Physiology,Respiration in Plants,Amphibolic pathway,Active,4432
+271,NEET,Botany,Plant Physiology,Respiration in Plants,Respiratory Quotient,Active,4433
+272,NEET,Botany,Plant Physiology,Respiration in Plants,Do plants breathe ?,Active,4427
+273,NEET,Botany,Plant Physiology,Respiration in Plants,Glycolysis,Active,4428
+274,NEET,Botany,Plant Physiology,Respiration in Plants,Fermentation,Active,4429
+275,NEET,Botany,Plant Physiology,Respiration in Plants,Aerobic Respiration,Active,4430
+276,NEET,Botany,Plant Physiology,Photosynthesis In Higher Plants,What do we Know (Prior Knowledge),Active,4417
+277,NEET,Botany,Plant Physiology,Photosynthesis In Higher Plants,Early Experiments,Active,4418
+278,NEET,Botany,Plant Physiology,Photosynthesis In Higher Plants,Where does Photosynthesis take place (Site of Photosynthesis),Active,4419
+279,NEET,Botany,Plant Physiology,Photosynthesis In Higher Plants,How many Pigments are Involved in Photosynthesis (Pigments of Photosynthesis),Active,4420
+280,NEET,Botany,Plant Physiology,Photosynthesis In Higher Plants,What is Light Reaction?,Active,4421
+281,NEET,Botany,Plant Physiology,Photosynthesis In Higher Plants,The Electron Transport,Active,4422
+282,NEET,Botany,Plant Physiology,Photosynthesis In Higher Plants,Where are the ATP and NADPH used ?,Active,4423
+283,NEET,Botany,Plant Physiology,Photosynthesis In Higher Plants,The C4 pathway,Active,4424
+284,NEET,Botany,Plant Physiology,Photosynthesis In Higher Plants,Photorespiration,Active,4425
+285,NEET,Botany,Plant Physiology,Photosynthesis In Higher Plants,Factors affecting Photosynthesis,Active,4426
+286,NEET,Botany,Plant Physiology,Mineral Nutrition,Methods to study the mineral requirements of plants,Active,4411
+287,NEET,Botany,Plant Physiology,Mineral Nutrition,Essential mineral elements,Active,4412
+288,NEET,Botany,Plant Physiology,Mineral Nutrition,Mechanism of Absorption of elements,Active,4413
+289,NEET,Botany,Plant Physiology,Mineral Nutrition,Soil as reservoir and Translocation of solutes,Active,4415
+290,NEET,Botany,Plant Physiology,Mineral Nutrition,Metabolism of Nitrogen,Active,4416
+291,NEET,Botany,Plant Physiology,Transport in Plants,Means of Transport,Active,4405
+292,NEET,Botany,Plant Physiology,Transport in Plants,Plant-Water Relations,Active,4406
+293,NEET,Botany,Plant Physiology,Transport in Plants,Long Distance Transport of Water,Active,4407
+294,NEET,Botany,Plant Physiology,Transport in Plants,Transpiration,Active,4408
+295,NEET,Botany,Plant Physiology,Transport in Plants,Uptake and Transport of Mineral Nutrients,Active,4409
+296,NEET,Botany,Plant Physiology,Transport in Plants,Phloem transport: Flow from source to sink,Active,4410
+297,NEET,Botany,Cell : Structure and Functions (B),Cell cycle and cell division,Cell cycle,Active,4400
+298,NEET,Botany,Cell : Structure and Functions (B),Cell cycle and cell division,M phase,Active,4401
+299,NEET,Botany,Cell : Structure and Functions (B),Cell cycle and cell division,Significance of Mitosis,Active,4402
+300,NEET,Botany,Cell : Structure and Functions (B),Cell cycle and cell division,Meiosis,Active,4403
+301,NEET,Botany,Cell : Structure and Functions (B),Cell cycle and cell division,Significance of Meiosis,Active,4404
+302,NEET,Zoology,Cell : Structure and functions (Z),Biomolecules,How to Analyse Chemical Composition,Active,4388
+303,NEET,Zoology,Cell : Structure and functions (Z),Biomolecules,Primary and Secondary metabolites,Active,4389
+304,NEET,Zoology,Cell : Structure and functions (Z),Biomolecules,Biomacromolecules,Active,4390
+305,NEET,Zoology,Cell : Structure and functions (Z),Biomolecules,Proteins,Active,4391
+306,NEET,Zoology,Cell : Structure and functions (Z),Biomolecules,Polysaccharides,Active,4392
+307,NEET,Zoology,Cell : Structure and functions (Z),Biomolecules,Nucleic Acids,Active,4393
+308,NEET,Zoology,Cell : Structure and functions (Z),Biomolecules,Structure of proteins,Active,4394
+309,NEET,Zoology,Cell : Structure and functions (Z),Biomolecules,Nature of bond linking and Metabolism,Active,4395
+310,NEET,Zoology,Cell : Structure and functions (Z),Biomolecules,Enzymes,Active,4399
+311,NEET,Botany,Cell : Structure and Functions (B),Cell-The Unit of Life,What is a cell ?,Active,4383
+312,NEET,Botany,Cell : Structure and Functions (B),Cell-The Unit of Life,Cell Theory,Active,4384
+313,NEET,Botany,Cell : Structure and Functions (B),Cell-The Unit of Life,An Overview of cell,Active,4385
+314,NEET,Botany,Cell : Structure and Functions (B),Cell-The Unit of Life,Prokaryotic cells,Active,4386
+315,NEET,Botany,Cell : Structure and Functions (B),Cell-The Unit of Life,Eukaryotic cells,Active,4387
+316,NEET,Zoology,Structural Organization in Plants and Animals (Z),Structural Organization in Animals,Earthworm,Active,4380
+317,NEET,Zoology,Structural Organization in Plants and Animals (Z),Structural Organization in Animals,Cockroach,Active,4381
+318,NEET,Zoology,Structural Organization in Plants and Animals (Z),Structural Organization in Animals,Frog,Active,4382
+319,NEET,Botany,Structural Organization in Plants and Animals (B),Anatomy of Flowering Plants,The tissues,Active,4374
+320,NEET,Botany,Structural Organization in Plants and Animals (B),Anatomy of Flowering Plants,The tissue system,Active,4375
+321,NEET,Botany,Structural Organization in Plants and Animals (B),Anatomy of Flowering Plants,Anatomy of Dicotyledonous and Monocotyledonous plants,Active,4376
+322,NEET,Botany,Structural Organization in Plants and Animals (B),Anatomy of Flowering Plants,Secondary growth,Active,4377
+323,NEET,Botany,Structural Organization in Plants and Animals (B),Morphology of flowering plants,The Root,Active,4366
+324,NEET,Botany,Structural Organization in Plants and Animals (B),Morphology of flowering plants,The Stem,Active,4367
+325,NEET,Botany,Structural Organization in Plants and Animals (B),Morphology of flowering plants,The Leaf,Active,4368
+326,NEET,Botany,Structural Organization in Plants and Animals (B),Morphology of flowering plants,The Inflorescence,Active,4369
+327,NEET,Botany,Structural Organization in Plants and Animals (B),Morphology of flowering plants,The Flower,Active,4370
+328,NEET,Botany,Structural Organization in Plants and Animals (B),Morphology of flowering plants,The Fruit,Active,4371
+329,NEET,Botany,Structural Organization in Plants and Animals (B),Morphology of flowering plants,The Seed,Active,4372
+330,NEET,Botany,Structural Organization in Plants and Animals (B),Morphology of flowering plants,Description of Some Important families,Active,4373
+331,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,Basis of Classification,Active,4353
+332,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,1. Phylum Porifera,Active,4355
+333,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,2. Phylum Coelenterata (Cnidaria),Active,4356
+334,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,3. Phylum Ctenophora,Active,4357
+335,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,4. Phylum Platyhelminthes,Active,4358
+336,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,5. Phylum Aschelminthes,Active,4359
+337,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,6. Phylum Annelida,Active,4360
+338,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,7. Phylum Arthropoda,Active,4361
+339,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,8. Phylum Mollusca,Active,4362
+340,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,9. Phylum Echinodermata,Active,4363
+341,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,10. Phylum Hemichordata,Active,4364
+342,NEET,Zoology,Diversity In The Living World (Z),Animal Kingdom,11. Phylum Chordata,Active,4365
+343,NEET,Botany,Diversity In The Living World (B),Plant Kingdom,Classification system,Active,4346
+344,NEET,Botany,Diversity In The Living World (B),Plant Kingdom,Algae (Thallophytes),Active,4347
+345,NEET,Botany,Diversity In The Living World (B),Plant Kingdom,Bryophytes,Active,4348
+346,NEET,Botany,Diversity In The Living World (B),Plant Kingdom,Pteridophytes,Active,4349
+347,NEET,Botany,Diversity In The Living World (B),Plant Kingdom,Gymnosperms,Active,4350
+348,NEET,Botany,Diversity In The Living World (B),Plant Kingdom,Angiosperms,Active,4351
+349,NEET,Botany,Diversity In The Living World (B),Plant Kingdom,Plant life cycles and Alternation of generation,Active,4352
+350,NEET,Botany,Diversity In The Living World (B),Biological Classification,Kingdom Classification,Active,4339
+351,NEET,Botany,Diversity In The Living World (B),Biological Classification,Kingdom Monera,Active,4340
+352,NEET,Botany,Diversity In The Living World (B),Biological Classification,Kingdom Protista,Active,4341
+353,NEET,Botany,Diversity In The Living World (B),Biological Classification,Kingdom Fungi,Active,4342
+354,NEET,Botany,Diversity In The Living World (B),Biological Classification,"Viruses, Viroids and Lichens",Active,4345
+355,NEET,Botany,Diversity In The Living World (B),The living world,What is 'living' ?,Active,4335
+356,NEET,Botany,Diversity In The Living World (B),The living world,Diversity in the living world,Active,4336
+357,NEET,Botany,Diversity In The Living World (B),The living world,Taxonomic categories,Active,4337
+358,NEET,Botany,Diversity In The Living World (B),The living world,Taxonomical aids,Active,4338
+359,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Physical and Chemical Properties of Group 1 Elements,Active,4334
+360,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Physical and Chemical Properties of Group 1 Elements,Active,4333
+361,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Indicators,Active,4330
+362,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Isomerism in Alkanes,Active,4318
+363,NEET,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Adsorption,Active,4270
+364,NEET,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Catalysis,Active,4271
+365,NEET,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Colloids and its preparation,Active,4272
+366,NEET,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Types of Colloids,Active,4273
+367,NEET,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Preparation of Colloids,Active,4274
+368,NEET,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Purification and properties of Colloidal Solutions,Active,4275
+369,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrolytic and Metallic Conduction,Active,4257
+370,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrodes and Electrochemical Series,Active,4258
+371,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrolytic Cells and Electrolysis,Active,4259
+372,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Faraday's First and Second Law of Electrolysis,Active,4260
+373,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Conductance in Electrolytic Solutions,Active,4261
+374,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Kohlrausch's Law,Active,4262
+375,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrode Potential and Standard Electrode Potential,Active,4264
+376,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Nernst Equation and Its Application,Active,4265
+377,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Corrosion and Prevention,Active,4266
+378,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Thermodynamics of Cell and its applications,Active,4267
+379,NEET,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrochemical Cells and Batteries,Active,4268
+380,NEET,Chemistry,Physical Chemistry(PC-2),Solid State,Types of Solids and their properties,Active,4248
+381,NEET,Chemistry,Physical Chemistry(PC-2),Solid State,Crystal Lattice and Unit cells,Active,4249
+382,NEET,Chemistry,Physical Chemistry(PC-2),Solid State,Crystalline Solids and their Properties,Active,4250
+383,NEET,Chemistry,Physical Chemistry(PC-2),Solid State,Ionic Compounds,Active,4251
+384,NEET,Chemistry,Physical Chemistry(PC-2),Solid State,Calculations for Standard Cubical Unit Lattice,Active,4252
+385,NEET,Chemistry,Physical Chemistry(PC-2),Solid State,Packing Efficiency,Active,4253
+386,NEET,Chemistry,Physical Chemistry(PC-2),Solid State,Voids and its types,Active,4254
+387,NEET,Chemistry,Physical Chemistry(PC-2),Solid State,Defects in Solids,Active,4255
+388,NEET,Chemistry,Physical Chemistry(PC-2),Solid State,Electrical and Magnetic Properties of Solids,Active,4256
+389,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Solutions-Properties and its Types,Active,4236
+390,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Osmosis and Osmotic Pressure,Active,4237
+391,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Concentration Terms of Solutions,Active,4238
+392,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Solubility,Active,4239
+393,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Vapour Pressure of Liquid Solutions,Active,4240
+394,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Raoult's Law and its applications,Active,4241
+395,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Ideal and Non-ideal Solutions and its properties,Active,4242
+396,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Colligative Properties,Active,4243
+397,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Relative Lowering of Vapour Pressure,Active,4244
+398,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Elevation in Boiling Point,Active,4245
+399,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Depression in Freezing Point,Active,4246
+400,NEET,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Van't Hoff's Factor and its applications,Active,4247
+401,NEET,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Rate of a Chemical Reaction and its measurement,Active,4229
+402,NEET,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Factors Influencing Rate of Reaction,Active,4230
+403,NEET,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Arrhenius Collision Theory,Active,4231
+404,NEET,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Mechanism of a Chemical Reaction and its application,Active,4232
+405,NEET,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Determination of Order of Reaction,Active,4233
+406,NEET,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Integrated Rate Equations of different orders,Active,4234
+407,NEET,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Radioactivity and its applications,Active,4235
+408,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Models of Atoms,Active,4219
+409,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Discovery of electrons. protons and neutrons,Active,4220
+410,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Electromagnetic Radiation and its nature,Active,4221
+411,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Electromagnetic Spectrum,Active,4222
+412,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Particle Nature of Light,Active,4223
+413,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Photoelectric Effect and its applications,Active,4224
+414,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Bohr's Model for Hydrogen Atom,Active,4225
+415,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Quantum Mechanical Model of the Atom,Active,4226
+416,NEET,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Rules for filling of Electrons in Orbitals,Active,4227
+417,NEET,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Oxidation and Reduction,Active,4212
+418,NEET,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Calculation of Oxidation Number,Active,4213
+419,NEET,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Types of Redox Reactions,Active,4214
+420,NEET,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Balancing of Redox Reactions,Active,4215
+421,NEET,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Equivalent Concept,Active,4218
+422,NEET,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Basics of Equilibrium,Active,4202
+423,NEET,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Types of Equilibrium,Active,4203
+424,NEET,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Equilibrium in Physical Processes,Active,4204
+425,NEET,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Chemical Equilibrium and its Properties,Active,4205
+426,NEET,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Law of Chemical Equilibrium and Equilibrium Constants,Active,4206
+427,NEET,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Equilibrium Constants and its applications,Active,4207
+428,NEET,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Application of Equilibrium Constant,Active,4208
+429,NEET,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Le chatelier's principle,Active,4209
+430,NEET,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Thermodynamics of Equilibrium and its applications,Active,4210
+431,NEET,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Intermolecular Forces,Active,4192
+432,NEET,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Gaseous Laws and Ideal Gas Equation,Active,4193
+433,NEET,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Dalton's Law of Partial Pressure,Active,4194
+434,NEET,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Kinetic Theory of Gases and Molecular Speeds,Active,4195
+435,NEET,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Real Gas,Active,4196
+436,NEET,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Van Der Waals Equation and its various forms,Active,4198
+437,NEET,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Liquefaction of Gases and its applications,Active,4199
+438,NEET,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Vapour Pressure and Surface Tension,Active,4200
+439,NEET,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Ionic Equilibrium in Solution,Active,4182
+440,NEET,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Acids and Bases ionization,Active,4183
+441,NEET,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Solubility Equilibria of Sparingly Soluble Salts,Active,4184
+442,NEET,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,"Acids, Bases and Salts",Active,4185
+443,NEET,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Ionic Product of Water,Active,4186
+444,NEET,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,pH Scale and its applications,Active,4187
+445,NEET,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Buffer Solutions and its applications,Active,4188
+446,NEET,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Hydrolysis of Salts and pH calculation of their Solutions,Active,4189
+447,NEET,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Basics of Thermodynamics,Active,4172
+448,NEET,Chemistry,Physical Chemistry(PC-1),Thermodynamics,First Law of Thermodynamics and its applications,Active,4174
+449,NEET,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Enthalpy Change of a Reaction,Active,4175
+450,NEET,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Different Types of Enthalpies,Active,4176
+451,NEET,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Hess's Law of Constant Heat Summation,Active,4177
+452,NEET,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Spontaneity and its applications,Active,4179
+453,NEET,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Entropy and Second Law of Thermodynamics,Active,4180
+454,NEET,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Relation between the Gibbs Energy Change and Equilibrium,Active,4181
+455,NEET,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Uncertainty in Measurement,Active,4163
+456,NEET,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Atomic and Molecular Mass,Active,4166
+457,NEET,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Mole Concept,Active,4167
+458,NEET,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Calculation of Empirical and Molecular Formulae,Active,4168
+459,NEET,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Chemical Equations and Stoichiometry and its applications,Active,4170
+460,NEET,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Concentration Terms,Active,4171
+461,NEET,Chemistry,Organic Chemistry(OC-2),Polymers,Polymers and its classification,Active,4155
+462,NEET,Chemistry,Organic Chemistry(OC-2),Polymers,Classification of Polymers,Active,4156
+463,NEET,Chemistry,Organic Chemistry(OC-2),Polymers,Methods of Polymerisation,Active,4157
+464,NEET,Chemistry,Organic Chemistry(OC-2),Polymers,Important Polymers,Active,4158
+465,NEET,Chemistry,Organic Chemistry(OC-2),Polymers,Natural and Synthetic Rubbers,Active,4159
+466,NEET,Chemistry,Organic Chemistry(OC-2),Polymers,Molecular Masses calculation of Polymers,Active,4160
+467,NEET,Chemistry,Organic Chemistry(OC-2),Biomolecules,Carbohydrates,Active,4148
+468,NEET,Chemistry,Organic Chemistry(OC-2),Biomolecules,Glucose,Active,4149
+469,NEET,Chemistry,Organic Chemistry(OC-2),Biomolecules,Proteins and Amino Acids,Active,4150
+470,NEET,Chemistry,Organic Chemistry(OC-2),Biomolecules,Enzymes,Active,4151
+471,NEET,Chemistry,Organic Chemistry(OC-2),Biomolecules,Vitamins,Active,4152
+472,NEET,Chemistry,Organic Chemistry(OC-2),Biomolecules,Nucleic Acids,Active,4153
+473,NEET,Chemistry,Organic Chemistry(OC-2),Biomolecules,Hormones,Active,4154
+474,NEET,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Haloalkanes and Haloarenes-Introduction,Active,4137
+475,NEET,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Classification of Haloalkanes and Haloarenes,Active,4138
+476,NEET,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Nomenclature of Haloalkanes and Haloarenes,Active,4139
+477,NEET,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Preparations of Haloarenes,Active,4141
+478,NEET,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Preparation of Haloalkanes,Active,4142
+479,NEET,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Physical Properties of Haloalkanes and Haloarenes,Active,4143
+480,NEET,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Chemical Reactions of Haloalkanes,Active,4144
+481,NEET,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Nucleophilic Substitution Reactions of Haloalkanes and Haloarenes,Active,4145
+482,NEET,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Chemical Reactions of Haloarenes,Active,4146
+483,NEET,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Polyhalogen Compounds,Active,4147
+484,NEET,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids","Introduction to Aldehydes, Ketones and Carboxylic Acids",Active,4127
+485,NEET,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Preparation of Aldehydes and Ketones,Active,4128
+486,NEET,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Physical and Chemical Properties of Aldehydes and Ketones,Active,4129
+487,NEET,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Chemical Reactions of Aldehydes and Ketones,Active,4130
+488,NEET,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids","Uses of Aldehydes, Ketones and Carboxylic Acids",Active,4131
+489,NEET,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Introduction to Carboxylic Acids,Active,4132
+490,NEET,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Preparation of Carboxylic Acids and its Derivatives,Active,4133
+491,NEET,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Physical Properties of Carboxylic Acids and its Derivatives,Active,4134
+492,NEET,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Chemical Properties of Carboxylic Acids and its Derivatives,Active,4135
+493,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers","Introduction of Alcohols, Phenols, and Ethers",Active,4115
+494,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Preparation of Alcohols,Active,4116
+495,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Physical Properties of Alcohols,Active,4117
+496,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Chemical Properties of Alcohols,Active,4118
+497,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Important Alcoholic compounds,Active,4119
+498,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Tests of Alcohols,Active,4120
+499,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Preparation of Phenols,Active,4121
+500,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Physical Properties of Phenols,Active,4122
+501,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Chemical Properties of Phenols,Active,4123
+502,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Preparation and Properties of Ethers,Active,4124
+503,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Physical Properties of Ethers,Active,4125
+504,NEET,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Chemical Properties of Ethers,Active,4126
+505,NEET,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Drugs and their types,Active,4110
+506,NEET,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Drug-Target Interaction,Active,4111
+507,NEET,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Drug Action,Active,4112
+508,NEET,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Chemicals in Food products,Active,4113
+509,NEET,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Cleansing Action,Active,4114
+510,NEET,Chemistry,Organic Chemistry(OC-2),Amines,Introduction of Amines,Active,4099
+511,NEET,Chemistry,Organic Chemistry(OC-2),Amines,Preparation of Amines,Active,4100
+512,NEET,Chemistry,Organic Chemistry(OC-2),Amines,Physical Properties of Amines,Active,4101
+513,NEET,Chemistry,Organic Chemistry(OC-2),Amines,Chemical Properties of Amines,Active,4102
+514,NEET,Chemistry,Organic Chemistry(OC-2),Amines,Chemical Reactions of Amines,Active,4103
+515,NEET,Chemistry,Organic Chemistry(OC-2),Amines,Introduction to Diazonium Salts,Active,4104
+516,NEET,Chemistry,Organic Chemistry(OC-2),Amines,Preparation of Diazonium Salts,Active,4105
+517,NEET,Chemistry,Organic Chemistry(OC-2),Amines,Properties of Diazonium Salts,Active,4106
+518,NEET,Chemistry,Organic Chemistry(OC-2),Amines,Chemical Reactions of Diazonium Salts,Active,4107
+519,NEET,Chemistry,Organic Chemistry(OC-2),Amines,Applications of Diazonium Salts,Active,4108
+520,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,General Introduction of Organic Chemistry,Active,4080
+521,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Concepts in Organic Reaction Mechanism,Active,4081
+522,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Electronic Effects and its applications in acids and bases,Active,4083
+523,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Reaction Intermediates,Active,4084
+524,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Application of Electronic Effect,Active,4085
+525,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Resonance and its applications,Active,4086
+526,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Types of Organic Reactions,Active,4087
+527,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Aromaticity and its applications,Active,4088
+528,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Classification of Organic Compounds,Active,4089
+529,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,IUPAC Nomenclature of Organic Compounds,Active,4090
+530,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Isomerism in Organic Compounds,Active,4092
+531,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Structural Isomerism and its Types,Active,4093
+532,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Stereoisomerism and its classification,Active,4094
+533,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Purification Processes and methods of purification,Active,4095
+534,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Purification of Organic Compounds,Active,4096
+535,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Qualitative Analysis of Organic Compounds,Active,4097
+536,NEET,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Quantitative Analysis of Organic Compounds,Active,4098
+537,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,"Alkanes, Alkenes and Alkynes",Active,4066
+538,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation of Alkanes,Active,4067
+539,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Physical Properties of Alkanes,Active,4068
+540,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Chemical Properties of Alkanes,Active,4069
+541,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation of Alkenes,Active,4070
+542,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Physical Properties of Alkenes,Active,4071
+543,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Chemical Properties of Alkenes,Active,4072
+544,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation of Alkynes,Active,4073
+545,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Physical Properties of Alkynes,Active,4074
+546,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Chemical Properties of Alkynes,Active,4075
+547,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Introduction of Arenes or Aromatic Hydrocarbons,Active,4076
+548,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation of Aromatic Hydrocarbons,Active,4077
+549,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Physical Properties of Aromatic Hydrocarbons,Active,4078
+550,NEET,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Chemical Properties of Aromatic Hydrocarbons,Active,4079
+551,NEET,Chemistry,Inorganic Chemistry(IOC-2),Qualitative Analysis,Basic Terminologies in Qualitative Analysis,Active,4062
+552,NEET,Chemistry,Inorganic Chemistry(IOC-2),Qualitative Analysis,Preliminary Test for Radicals,Active,4063
+553,NEET,Chemistry,Inorganic Chemistry(IOC-2),Qualitative Analysis,Tests of Anionic Radicals,Active,4064
+554,NEET,Chemistry,Inorganic Chemistry(IOC-2),Qualitative Analysis,Tests of Cationic Radicals,Active,4065
+555,NEET,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Occurrence of Elements,Active,4054
+556,NEET,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Concentration of Ores,Active,4055
+557,NEET,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Conversion of Ores into Oxide,Active,4056
+558,NEET,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Thermodynamic and Electrochemical Principles in Metallurgy,Active,4057
+559,NEET,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Ellingham Diagrams,Active,4058
+560,NEET,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Reduction of the Ores,Active,4059
+561,NEET,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Refining of the Ores,Active,4060
+562,NEET,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Extraction of Important Elements,Active,4061
+563,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",p-Block Elements,Active,4038
+564,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Introduction of Group 15 Elements,Active,4039
+565,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Physical Properties of Group 15 Elements,Active,4040
+566,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Chemical Properties of Group 15 Elements,Active,4041
+567,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Important Compounds of Group 15 Elements,Active,4042
+568,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",General Introduction of Group 16 Elements,Active,4043
+569,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Physical and Chemical Properties of Group 16 Elements,Active,4044
+570,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Important Compounds of Group 15 and 16 Elements,Active,4045
+571,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",General Introduction of Group 17 Elements,Active,4046
+572,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Physical and Chemical Properties of Group 17 Elements,Active,4047
+573,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",General Introduction of Group 18 Elements,Active,4049
+574,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Physical Properties of Group 18 Elements,Active,4050
+575,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Chemical Properties of Group 18 Elements,Active,4051
+576,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Important Compounds of Group 17 and 18 Elements,Active,4052
+577,NEET,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Uses of Group 17 and 18 Elements,Active,4053
+578,NEET,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Introduction of d- and f-Block Elements,Active,4029
+579,NEET,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Properties of d-Block Elements,Active,4030
+580,NEET,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Important Compounds of Transition Metals,Active,4031
+581,NEET,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Introduction of Lanthanoids,Active,4032
+582,NEET,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Properties of Lanthanoids,Active,4033
+583,NEET,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Introduction of Actinoids,Active,4034
+584,NEET,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Properties of Actinoids,Active,4035
+585,NEET,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Lanthanoids and Actinoids,Active,4036
+586,NEET,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,d-Block and f-Block Elements Uses,Active,4037
+587,NEET,Chemistry,Inorganic Chemistry(IOC-2),Coordination Chemistry,Coordination Compounds and its Terminologies,Active,4018
+588,NEET,Chemistry,Inorganic Chemistry(IOC-2),Coordination Chemistry,Werner's Theory,Active,4019
+589,NEET,Chemistry,Inorganic Chemistry(IOC-2),Coordination Chemistry,Ligands and their type,Active,4020
+590,NEET,Chemistry,Inorganic Chemistry(IOC-2),Coordination Chemistry,Chelation and Stability in Coordination Compounds,Active,4021
+591,NEET,Chemistry,Inorganic Chemistry(IOC-2),Coordination Chemistry,Nomenclature of Coordination Compounds,Active,4022
+592,NEET,Chemistry,Inorganic Chemistry(IOC-2),Coordination Chemistry,Isomerism and its Types in Coordination Compounds,Active,4023
+593,NEET,Chemistry,Inorganic Chemistry(IOC-2),Coordination Chemistry,Valence Bond Theory,Active,4024
+594,NEET,Chemistry,Inorganic Chemistry(IOC-2),Coordination Chemistry,Crystal Field Theory,Active,4025
+595,NEET,Chemistry,Inorganic Chemistry(IOC-2),Coordination Chemistry,Stability in Coordination Compounds,Active,4026
+596,NEET,Chemistry,Inorganic Chemistry(IOC-2),Coordination Chemistry,Applications of Coordination Compounds,Active,4027
+597,NEET,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Properties of Hydrogen,Active,4010
+598,NEET,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Dihydrogen and its preparation,Active,4011
+599,NEET,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Hydrides,Active,4013
+600,NEET,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Water- Structure and Properties,Active,4014
+601,NEET,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Hydrogen Peroxide and its uses,Active,4017
+602,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Chemical Properties of Group 1 Elements,Active,4000
+603,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Important Compounds of Group 1 Elements,Active,4002
+604,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Anomalous Properties of Lithium and Beryllium,Active,4003
+605,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",General Introduction of Group 2 Elements,Active,4004
+606,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Physical Properties of Group 2 Elements,Active,4005
+607,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Chemical Properties of Group 2 Elements,Active,4006
+608,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Important Compounds of Group 2 Elements,Active,4007
+609,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Uses of Group 1 and 2 Elements,Active,4008
+610,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Introduction of Group 13 Elements,Active,3990
+611,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Physical Properties of Group 13 Elements,Active,3991
+612,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Chemical Properties of Group 13 Elements,Active,3992
+613,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Important Compounds of Group 13 Elements,Active,3993
+614,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Introduction of Group 14 Elements,Active,3995
+615,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Physical Properties of Group 14 Elements,Active,3996
+616,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Chemical Properties of Group 14 Elements,Active,3997
+617,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Important Compounds of Group 14 Elements,Active,3998
+618,NEET,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Uses of Group 13 and 14 Elements,Active,3999
+619,NEET,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Octet Rule,Active,3981
+620,NEET,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Covalent Bonding,Active,3982
+621,NEET,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Ionic Bond,Active,3983
+622,NEET,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Bond Parameters and its applications,Active,3984
+623,NEET,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Dipole Moment,Active,3985
+624,NEET,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Hydrogen Bonding and its Application,Active,3986
+625,NEET,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Hybridisation and its Applications,Active,3987
+626,NEET,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,The Valence Shell Electron Pair Repulsion (VSEPR) Theory,Active,3988
+627,NEET,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Molecular Orbital Theory (MOT) and its applications,Active,3989
+628,NEET,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,History of The Periodic Table,Active,3972
+629,NEET,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Classification of Periodic Table,Active,3973
+630,NEET,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Modern Periodic Law,Active,3974
+631,NEET,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Electronic Configurations and Types of Elements in Periodic Table,Active,3975
+632,NEET,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Periodic Trends,Active,3976
+633,NEET,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Radius and Its Types,Active,3977
+634,NEET,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Ionization Enthalpy and its Applications,Active,3978
+635,NEET,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Electron Gain Enthalpy and its Applications,Active,3979
+636,NEET,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Electronegativity and its Applications,Active,3980
+637,NEET,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Environmental Pollution,Active,3965
+638,NEET,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Atmospheric Pollution,Active,3966
+639,NEET,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Water Pollution,Active,3967
+640,NEET,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Soil Pollution,Active,3968
+641,NEET,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Industrial Waste,Active,3969
+642,NEET,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Techniques to Control Environmental Pollution,Active,3970
+643,NEET,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Green Chemistry,Active,3971
+644,JEE,Mathematics,Vector and 3D,3D Geometry,Basics of 3D Geometry,Active,3962
+645,JEE,Mathematics,Vector and 3D,3D Geometry,Lines in 3D,Active,3963
+646,JEE,Mathematics,Vector and 3D,3D Geometry,Planes in 3D,Active,3964
+647,NEET,Physics,"Oscillations , Waves and Sound",Sound,Pressure waves,Active,3961
+648,NEET,Physics,Magnetism and Electromagnetic Induction,Alternating current,Alternating current and voltage,Active,3956
+649,NEET,Physics,Magnetism and Electromagnetic Induction,Alternating current,Choke coil,Active,3957
+650,NEET,Physics,Magnetism and Electromagnetic Induction,Alternating current,Resonance,Active,3958
+651,NEET,Physics,Magnetism and Electromagnetic Induction,Alternating current,Transformers,Active,3959
+652,NEET,Physics,Magnetism and Electromagnetic Induction,Alternating current,AC Circuits,Active,3960
+653,NEET,Physics,MODERN PHYSICS,Dual Nature,Experiments,Active,3955
+654,NEET,Physics,"Oscillations , Waves and Sound",Sound,Sound waves,Active,3950
+655,NEET,Physics,"Oscillations , Waves and Sound",Sound,Factors affecting speed of sound in gas,Active,3951
+656,NEET,Physics,"Oscillations , Waves and Sound",Sound,Waves on string,Active,3952
+657,NEET,Physics,"Oscillations , Waves and Sound",Sound,Characteristics of sound,Active,3953
+658,NEET,Physics,"Oscillations , Waves and Sound",Sound,Doppler effect,Active,3954
+659,NEET,Physics,"Oscillations , Waves and Sound",Waves,Wave function,Active,3941
+660,NEET,Physics,"Oscillations , Waves and Sound",Waves,Travelling wave model,Active,3942
+661,NEET,Physics,"Oscillations , Waves and Sound",Waves,Waves on string,Active,3943
+662,NEET,Physics,"Oscillations , Waves and Sound",Waves,Superposition of Sinusoidal waves,Active,3944
+663,NEET,Physics,"Oscillations , Waves and Sound",Waves,Interference of waves,Active,3945
+664,NEET,Physics,"Oscillations , Waves and Sound",Waves,Reflection and Refraction of waves,Active,3946
+665,NEET,Physics,"Oscillations , Waves and Sound",Waves,Standing Waves,Active,3947
+666,NEET,Physics,"Oscillations , Waves and Sound",Waves,Resonance,Active,3948
+667,NEET,Physics,"Oscillations , Waves and Sound",Waves,Beats,Active,3949
+668,NEET,Physics,"Oscillations , Waves and Sound",Oscillations,Periodic motion,Active,3938
+669,NEET,Physics,"Oscillations , Waves and Sound",Oscillations,Simple harmonic motion,Active,3939
+670,NEET,Physics,"Oscillations , Waves and Sound",Oscillations,Pendulum,Active,3940
+671,NEET,Physics,Magnetism and Electromagnetic Induction,EM waves,EM waves,Active,3937
+672,NEET,Physics,Magnetism and Electromagnetic Induction,Electromagnetic Induction,Electromagnetic Induction and Inductance,Active,3933
+673,NEET,Physics,Magnetism and Electromagnetic Induction,Electromagnetic Induction,Circuits,Active,3934
+674,NEET,Physics,Magnetism and Electromagnetic Induction,Magnetism and matter,Magnetism and matter,Active,3932
+675,NEET,Physics,Magnetism and Electromagnetic Induction,Moving Charges and Magnetism,Magnetic Field,Active,3929
+676,NEET,Physics,Magnetism and Electromagnetic Induction,Moving Charges and Magnetism,Charge in magnetic field,Active,3930
+677,NEET,Physics,Magnetism and Electromagnetic Induction,Moving Charges and Magnetism,Magnetic dipole,Active,3931
+678,NEET,Physics,Electrostatics and Current Electricity,Current Electricity,Electric current,Active,3922
+679,NEET,Physics,Electrostatics and Current Electricity,Current Electricity,Resistance and resistivity,Active,3923
+680,NEET,Physics,Electrostatics and Current Electricity,Current Electricity,Kirchoff's Law,Active,3924
+681,NEET,Physics,Electrostatics and Current Electricity,Current Electricity,Charging and discharging of capacitor,Active,3925
+682,NEET,Physics,Electrostatics and Current Electricity,Current Electricity,Measuring devices,Active,3926
+683,NEET,Physics,Electrostatics and Current Electricity,Current Electricity,Electric power and energy,Active,3927
+684,NEET,Physics,Electrostatics and Current Electricity,Current Electricity,Electrical Circuits,Active,3928
+685,NEET,Physics,Electrostatics and Current Electricity,Electrostatic Potential and Capacitance,ELECTROSTATIC POTENTIAL,Active,3920
+686,NEET,Physics,Electrostatics and Current Electricity,Electrostatic Potential and Capacitance,CAPACITORS AND CAPACITANCE,Active,3921
+687,NEET,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Electric Charges & their Properties,Active,3915
+688,NEET,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Coulombs Law,Active,3916
+689,NEET,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Electric field,Active,3917
+690,NEET,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Electric dipole,Active,3918
+691,NEET,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Electric flux,Active,3919
+692,NEET,Physics,MODERN PHYSICS,Communication System,Propagation of Electromagnetic Waves,Active,3912
+693,NEET,Physics,MODERN PHYSICS,Communication System,Modulation and Demodulation,Active,3913
+694,NEET,Physics,MODERN PHYSICS,Communication System,Elements of Communication System,Active,3914
+695,NEET,Physics,MODERN PHYSICS,Semiconductor Electronics,Semiconductors,Active,3908
+696,NEET,Physics,MODERN PHYSICS,Semiconductor Electronics,p-n junction Diode & its Characteristics,Active,3909
+697,NEET,Physics,MODERN PHYSICS,Semiconductor Electronics,Junction Transistor & Its Characteristics,Active,3910
+698,NEET,Physics,MODERN PHYSICS,Semiconductor Electronics,Digital electronics and logic gates,Active,3911
+699,NEET,Physics,MODERN PHYSICS,Nuclei,Nuclear structure and Energy,Active,3904
+700,NEET,Physics,MODERN PHYSICS,Nuclei,Nuclear stability,Active,3905
+701,NEET,Physics,MODERN PHYSICS,Nuclei,Radioactivity,Active,3906
+702,NEET,Physics,MODERN PHYSICS,Nuclei,Nuclear reactions,Active,3907
+703,NEET,Physics,MODERN PHYSICS,Atoms,Atomic Models,Active,3899
+704,NEET,Physics,MODERN PHYSICS,Atoms,Bohr's model of hydrogen Atom,Active,3900
+705,NEET,Physics,MODERN PHYSICS,Atoms,Atomic Spectrum,Active,3901
+706,NEET,Physics,MODERN PHYSICS,Atoms,Atomic collision,Active,3902
+707,NEET,Physics,MODERN PHYSICS,Atoms,Xrays,Active,3903
+708,NEET,Physics,MODERN PHYSICS,Dual Nature,Quantum theory of light,Active,3895
+709,NEET,Physics,MODERN PHYSICS,Dual Nature,Intensity of light due to light source,Active,3896
+710,NEET,Physics,MODERN PHYSICS,Dual Nature,Matter waves,Active,3897
+711,NEET,Physics,MODERN PHYSICS,Dual Nature,Photo electric effect,Active,3898
+712,NEET,Physics,OPTICS,Wave Optics,Huygens wave theory,Active,3888
+713,NEET,Physics,OPTICS,Wave Optics,Principle of linear superposition,Active,3889
+714,NEET,Physics,OPTICS,Wave Optics,Young's double slit experiment,Active,3890
+715,NEET,Physics,OPTICS,Wave Optics,Geometric and optical path,Active,3891
+716,NEET,Physics,OPTICS,Wave Optics,Resolving power of microscope and telescope,Active,3892
+717,NEET,Physics,OPTICS,Wave Optics,Diffraction and Polarisation,Active,3893
+718,NEET,Physics,OPTICS,Wave Optics,Lloyd's mirror experiment,Active,3894
+719,NEET,Physics,OPTICS,Ray Optics,REFLECTION,Active,3885
+720,NEET,Physics,OPTICS,Ray Optics,REFRACTION,Active,3886
+721,NEET,Physics,OPTICS,Ray Optics,OPTICAL INSTRUMENTS AND HUMAN EYE,Active,3887
+722,NEET,Physics,Thermodynamics,Thermodynamic Processes,Thermodynamic Processes,Active,3881
+723,NEET,Physics,Thermodynamics,Thermodynamic Processes,Laws of Thermodynamics,Active,3882
+724,NEET,Physics,Thermodynamics,Thermodynamic Processes,Heat Engine and Refrigerators,Active,3883
+725,NEET,Physics,Thermodynamics,Thermodynamic Processes,Heat and Work,Active,3884
+726,NEET,Physics,Thermodynamics,Kinetic Theory of Gases,Molecular Theory,Active,3878
+727,NEET,Physics,Thermodynamics,Kinetic Theory of Gases,Gas Laws,Active,3879
+728,NEET,Physics,Thermodynamics,Kinetic Theory of Gases,Thermodynamic Processes,Active,3880
+729,NEET,Physics,Thermodynamics,Transmission of Heat,Conduction,Active,3875
+730,NEET,Physics,Thermodynamics,Transmission of Heat,Radiation,Active,3876
+731,NEET,Physics,Thermodynamics,Transmission of Heat,Convection,Active,3877
+732,NEET,Physics,Thermodynamics,"Thermometry, Thermal Expansion and Calorimetry",Thermometry,Active,3872
+733,NEET,Physics,Thermodynamics,"Thermometry, Thermal Expansion and Calorimetry",Thermal Expansion,Active,3873
+734,NEET,Physics,Thermodynamics,"Thermometry, Thermal Expansion and Calorimetry",Calorimetry,Active,3874
+735,NEET,Physics,MECHANICS -2,Gravitation,Kepler's Law,Active,3867
+736,NEET,Physics,MECHANICS -2,Gravitation,Newton's Law of Gravitation,Active,3868
+737,NEET,Physics,MECHANICS -2,Gravitation,Gravity,Active,3869
+738,NEET,Physics,MECHANICS -2,Gravitation,Gravitational potential,Active,3870
+739,NEET,Physics,MECHANICS -2,Gravitation,Satellites,Active,3871
+740,NEET,Physics,MECHANICS -2,Mechanical Properties of Solids,Stress and Strain,Active,3864
+741,NEET,Physics,MECHANICS -2,Mechanical Properties of Solids,Elastic Modulus & Poisons Ratio,Active,3865
+742,NEET,Physics,MECHANICS -2,Mechanical Properties of Solids,Work and Energy,Active,3866
+743,NEET,Physics,MECHANICS -2,Mechanical Properties of Fluids,Pressure,Active,3858
+744,NEET,Physics,MECHANICS -2,Mechanical Properties of Fluids,Force on surface immersed in liquid,Active,3859
+745,NEET,Physics,MECHANICS -2,Mechanical Properties of Fluids,Fluid in uniformly accelerated motion,Active,3860
+746,NEET,Physics,MECHANICS -2,Mechanical Properties of Fluids,Archimedes principle,Active,3861
+747,NEET,Physics,MECHANICS -2,Mechanical Properties of Fluids,Flow of Liquid,Active,3862
+748,NEET,Physics,MECHANICS -2,Mechanical Properties of Fluids,Surface tension,Active,3863
+749,NEET,Physics,MECHANICS -2,System of Particles and Rotational Motion,Rotational motion,Active,3852
+750,NEET,Physics,MECHANICS -2,System of Particles and Rotational Motion,Rolling motion,Active,3853
+751,NEET,Physics,MECHANICS -2,System of Particles and Rotational Motion,Moment of inertia,Active,3854
+752,NEET,Physics,MECHANICS -2,System of Particles and Rotational Motion,Mechanics of Rotational Motion,Active,3855
+753,NEET,Physics,MECHANICS -2,System of Particles and Rotational Motion,Angular momentum,Active,3856
+754,NEET,Physics,MECHANICS -2,System of Particles and Rotational Motion,Energy,Active,3857
+755,NEET,Physics,MECHANICS -2,"Center of Mass , Conservation of Linear Momentum and Collision",Centre of mass,Active,3848
+756,NEET,Physics,MECHANICS -2,"Center of Mass , Conservation of Linear Momentum and Collision",Linear momentum,Active,3849
+757,NEET,Physics,MECHANICS -2,"Center of Mass , Conservation of Linear Momentum and Collision",Impulse,Active,3850
+758,NEET,Physics,MECHANICS -2,"Center of Mass , Conservation of Linear Momentum and Collision",Collision,Active,3851
+759,NEET,Physics,MECHANICS -1,Work Power Energy,Work,Active,3842
+760,NEET,Physics,MECHANICS -1,Work Power Energy,Conservative and Non-Conservative Forces,Active,3843
+761,NEET,Physics,MECHANICS -1,Work Power Energy,Potential energy,Active,3844
+762,NEET,Physics,MECHANICS -1,Work Power Energy,Energy,Active,3845
+763,NEET,Physics,MECHANICS -1,Work Power Energy,Vertical Circular Motion,Active,3846
+764,NEET,Physics,MECHANICS -1,Work Power Energy,Power,Active,3847
+765,NEET,Physics,MECHANICS -1,Laws of Motion and friction,Classification of forces,Active,3833
+766,NEET,Physics,MECHANICS -1,Laws of Motion and friction,Laws of motion,Active,3834
+767,NEET,Physics,MECHANICS -1,Laws of Motion and friction,Momentum and Impulse,Active,3835
+768,NEET,Physics,MECHANICS -1,Laws of Motion and friction,Equilibrium,Active,3836
+769,NEET,Physics,MECHANICS -1,Laws of Motion and friction,Laws of motion in non inertial frame of reference,Active,3837
+770,NEET,Physics,MECHANICS -1,Laws of Motion and friction,Constraint relation,Active,3838
+771,NEET,Physics,MECHANICS -1,Laws of Motion and friction,Spring force,Active,3839
+772,NEET,Physics,MECHANICS -1,Laws of Motion and friction,Friction,Active,3840
+773,NEET,Physics,MECHANICS -1,Laws of Motion and friction,Circular Motion,Active,3841
+774,NEET,Physics,MECHANICS -1,Motion in a plane,Projectile motion,Active,3830
+775,NEET,Physics,MECHANICS -1,Motion in a plane,Relative Motion,Active,3831
+776,NEET,Physics,MECHANICS -1,Motion in a plane,Circular motion,Active,3832
+777,NEET,Physics,MECHANICS -1,Motion in a straight line,Distance and displacement,Active,3822
+778,NEET,Physics,MECHANICS -1,Motion in a straight line,Speed and velocity,Active,3823
+779,NEET,Physics,MECHANICS -1,Motion in a straight line,Acceleration,Active,3824
+780,NEET,Physics,MECHANICS -1,Motion in a straight line,Motion in a straight line,Active,3825
+781,NEET,Physics,MECHANICS -1,Motion in a straight line,Equations of motion,Active,3826
+782,NEET,Physics,MECHANICS -1,Motion in a straight line,Motion under gravity,Active,3827
+783,NEET,Physics,MECHANICS -1,Motion in a straight line,Relative motion in one dimension,Active,3828
+784,NEET,Physics,MECHANICS -1,Motion in a straight line,Graphs,Active,3829
+785,NEET,Physics,MECHANICS -1,Vectors,Classification of vectors,Active,3820
+786,NEET,Physics,MECHANICS -1,Vectors,Algebra of Vectors,Active,3821
+787,NEET,Physics,MECHANICS -1,Basic Mathematics,Derivative of a function,Active,3818
+788,NEET,Physics,MECHANICS -1,Basic Mathematics,Integration,Active,3819
+789,NEET,Physics,MECHANICS -1,Dimensions and Measurement,Units and Dimensions,Active,3816
+790,NEET,Physics,MECHANICS -1,Dimensions and Measurement,Measurements,Active,3817
+791,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Important Atomic Terms,Active,3815
+792,JEE,Mathematics,Coordinate Geometry,Circle,Equation of Circle,Active,3808
+793,JEE,Mathematics,Coordinate Geometry,Circle,Circle and a Point and Circle and a Line,Active,3809
+794,JEE,Mathematics,Coordinate Geometry,Circle,Tangent and Normal of a Circle,Active,3810
+795,JEE,Mathematics,Coordinate Geometry,Circle,"Pair of Tangent, Chord of Contact and Chord with Midpoint for Circle",Active,3811
+796,JEE,Mathematics,Coordinate Geometry,Circle,Interaction between Two Circles,Active,3812
+797,JEE,Mathematics,Coordinate Geometry,Circle,Family of Circles,Active,3813
+798,JEE,Mathematics,Coordinate Geometry,Circle,Other Concepts related to a Circle,Active,3814
+799,JEE,Mathematics,Coordinate Geometry,Points and Straight Line,Point in Cartesian Plane,Active,3800
+800,JEE,Mathematics,Coordinate Geometry,Points and Straight Line,Straight Line and its Equations,Active,3801
+801,JEE,Mathematics,Coordinate Geometry,Points and Straight Line,Interaction between Two Lines,Active,3802
+802,JEE,Mathematics,Coordinate Geometry,Points and Straight Line,Straight Line and a Point,Active,3803
+803,JEE,Mathematics,Coordinate Geometry,Points and Straight Line,Special Points in Triangles and Basic Geometry,Active,3804
+804,JEE,Mathematics,Coordinate Geometry,Points and Straight Line,Concurrency of Three Lines and Angle Bisectors,Active,3805
+805,JEE,Mathematics,Coordinate Geometry,Points and Straight Line,"Family of Lines, Shifting of Origin and Transformation of Axes",Active,3806
+806,JEE,Mathematics,Coordinate Geometry,Points and Straight Line,Pair of Straight Lines,Active,3807
+807,JEE,Mathematics,Trigonometry,Solution of Triangle or Properties of Triangle,Relations Between Sides and Angles of a Triangle,Active,3794
+808,JEE,Mathematics,Trigonometry,Solution of Triangle or Properties of Triangle,Half-Angle Formula and the Area of a Triangle,Active,3795
+809,JEE,Mathematics,Trigonometry,Solution of Triangle or Properties of Triangle,"Inradius, Exradii and Circumradius",Active,3796
+810,JEE,Mathematics,Trigonometry,Solution of Triangle or Properties of Triangle,"Length of Medians, Altitudes and Angle Bisectors",InActive,3797
+811,JEE,Mathematics,Trigonometry,Solution of Triangle or Properties of Triangle,Distances of the Centres of a Triangle from Its Vertices and Sides,InActive,3798
+812,JEE,Mathematics,Trigonometry,Solution of Triangle or Properties of Triangle,Distance between Various Centres and Other Miscellaneous Concepts,InActive,3799
+813,JEE,Mathematics,Trigonometry,Inverse Trigonometric Functions,Basics of Inverse Trigonometric Functions,Active,3791
+814,JEE,Mathematics,Trigonometry,Inverse Trigonometric Functions,Standard Properties of Inverse Trigonometric Functions,Active,3792
+815,JEE,Mathematics,Trigonometry,Inverse Trigonometric Functions,Identities of Inverse Trigonometric Functions and Other Miscellaneous Concepts,Active,3793
+816,JEE,Mathematics,Trigonometry,Trigonometric Equations and Inequalities,Trigonometric Equations,Active,3789
+817,JEE,Mathematics,Trigonometry,Trigonometric Equations and Inequalities,Trigonometric Inequalities,Active,3790
+818,JEE,Mathematics,Trigonometry,Trigonometric Ratios and Identities,Basics of Trigonometry,Active,3780
+819,JEE,Mathematics,Trigonometry,Trigonometric Ratios and Identities,Trigonometric Identities for Compound Angles (A+-B formula),Active,3781
+820,JEE,Mathematics,Trigonometry,Trigonometric Ratios and Identities,Trigonometric Identities for Multiple and Sub-multiple Angles,Active,3782
+821,JEE,Mathematics,Trigonometry,Trigonometric Ratios and Identities,Trigonometric Identities for Product to Sum or Difference,Active,3783
+822,JEE,Mathematics,Trigonometry,Trigonometric Ratios and Identities,Trigonometric Identities for Sum or Difference to Product,Active,3784
+823,JEE,Mathematics,Trigonometry,Trigonometric Ratios and Identities,Other Trigonometric Identities and Trigonometric Series,Active,3785
+824,JEE,Mathematics,Trigonometry,Trigonometric Ratios and Identities,Range of Trigonometric Expressions,InActive,3786
+825,JEE,Mathematics,Trigonometry,Trigonometric Ratios and Identities,Trigonometric Functions and Graphs,InActive,3787
+826,JEE,Chemistry,Organic Chemistry(OC-1),General Organic Chemistry,Addition Elimination Reaction,Active,3776
+827,JEE,Mathematics,Differential Calculus,Continuity and Differentiability,Continuity of a Function,Active,3773
+828,JEE,Mathematics,Differential Calculus,Continuity and Differentiability,Differentiability or Derivability of a Function,Active,3774
+829,JEE,Mathematics,Differential Calculus,Continuity and Differentiability,Functional Relations and Mean Value Theorems,Active,3775
+830,JEE,Mathematics,Differential Calculus,Application of Derivatives,Derivative as Rate of Change,Active,3769
+831,JEE,Mathematics,Differential Calculus,Application of Derivatives,Tangents and Normal,Active,3770
+832,JEE,Mathematics,Differential Calculus,Application of Derivatives,Monotonicity and Concavity,Active,3771
+833,JEE,Mathematics,Differential Calculus,Application of Derivatives,Maxima and Minima,Active,3772
+834,JEE,Chemistry,Organic Chemistry(OC-1),General Organic Chemistry,Substitution Nucleophilic Unimolecular,Active,3764
+835,JEE,Chemistry,Organic Chemistry(OC-1),General Organic Chemistry,Substitution Nucleophilic Bimolecular,Active,3765
+836,JEE,Chemistry,Organic Chemistry(OC-1),General Organic Chemistry,Elimination Unimolecular,Active,3766
+837,JEE,Chemistry,Organic Chemistry(OC-1),General Organic Chemistry,Elimination Bimolecular,Active,3767
+838,JEE,Physics,Magnetism and Electromagnetic Induction,EM waves,EM Waves,Active,3746
+839,JEE,Physics,Magnetism and Electromagnetic Induction,Magnetism and matter,Magnetism and matter,Active,3738
+840,JEE,Physics,"Oscillations , Waves and Sound",Sound,Sound waves,Active,3759
+841,JEE,Physics,"Oscillations , Waves and Sound",Sound,Factors affecting speed of sound in gas,Active,3760
+842,JEE,Physics,"Oscillations , Waves and Sound",Sound,Pressure waves,Active,3761
+843,JEE,Physics,"Oscillations , Waves and Sound",Sound,Characteristics of sound,Active,3762
+844,JEE,Physics,"Oscillations , Waves and Sound",Sound,Doppler effect,Active,3763
+845,JEE,Physics,"Oscillations , Waves and Sound",Waves,Wave function,Active,3750
+846,JEE,Physics,"Oscillations , Waves and Sound",Waves,Travelling wave model,Active,3751
+847,JEE,Physics,"Oscillations , Waves and Sound",Waves,Waves on string,Active,3752
+848,JEE,Physics,"Oscillations , Waves and Sound",Waves,Superposition of Sinusoidal waves,Active,3753
+849,JEE,Physics,"Oscillations , Waves and Sound",Waves,Interference of waves,Active,3754
+850,JEE,Physics,"Oscillations , Waves and Sound",Waves,Reflection and Refraction of waves,Active,3755
+851,JEE,Physics,"Oscillations , Waves and Sound",Waves,Standing Waves,Active,3756
+852,JEE,Physics,"Oscillations , Waves and Sound",Waves,Resonance,Active,3757
+853,JEE,Physics,"Oscillations , Waves and Sound",Waves,Beats,Active,3758
+854,JEE,Physics,"Oscillations , Waves and Sound",Oscillations,Periodic motion,Active,3747
+855,JEE,Physics,"Oscillations , Waves and Sound",Oscillations,Simple harmonic motion,Active,3748
+856,JEE,Physics,"Oscillations , Waves and Sound",Oscillations,Pendulum,Active,3749
+857,JEE,Physics,Magnetism and Electromagnetic Induction,Alternating current,Alternating current and voltage,Active,3741
+858,JEE,Physics,Magnetism and Electromagnetic Induction,Alternating current,Choke coil,Active,3742
+859,JEE,Physics,Magnetism and Electromagnetic Induction,Alternating current,Resonance,Active,3743
+860,JEE,Physics,Magnetism and Electromagnetic Induction,Alternating current,Transformers,Active,3744
+861,JEE,Physics,Magnetism and Electromagnetic Induction,Alternating current,AC Circuits,Active,3745
+862,JEE,Physics,Magnetism and Electromagnetic Induction,Electromagnetic Induction,Electromagnetic Induction and Inductance,Active,3739
+863,JEE,Physics,Magnetism and Electromagnetic Induction,Electromagnetic Induction,Circuits,Active,3740
+864,JEE,Physics,Magnetism and Electromagnetic Induction,Moving Charges and Magnetism,Magnetic Field,Active,3735
+865,JEE,Physics,Magnetism and Electromagnetic Induction,Moving Charges and Magnetism,Charge in magnetic field,Active,3736
+866,JEE,Physics,Magnetism and Electromagnetic Induction,Moving Charges and Magnetism,Magnetic dipole,Active,3737
+867,JEE,Physics,Electrostatics and Current Electricity,Current Electricity,Electrical Circuits,Active,3734
+868,JEE,Physics,Electrostatics and Current Electricity,Current Electricity,Electric current,Active,3728
+869,JEE,Physics,Electrostatics and Current Electricity,Current Electricity,Resistance and resistivity,Active,3729
+870,JEE,Physics,Electrostatics and Current Electricity,Current Electricity,Charging and discharging of capacitor,Active,3731
+871,JEE,Physics,Electrostatics and Current Electricity,Current Electricity,Measuring instruments,Active,3732
+872,JEE,Physics,Electrostatics and Current Electricity,Current Electricity,Electric power and energy,Active,3733
+873,JEE,Physics,Electrostatics and Current Electricity,Electrostatic Potential and Capacitance,ELECTROSTATIC POTENTIAL,Active,3726
+874,JEE,Physics,Electrostatics and Current Electricity,Electrostatic Potential and Capacitance,CAPACITORS AND CAPACITANCE,Active,3727
+875,JEE,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Electric Charges & their Properties,Active,3721
+876,JEE,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Coulombs Law,Active,3722
+877,JEE,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Electric field,Active,3723
+878,JEE,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Electric dipole,Active,3724
+879,JEE,Physics,Electrostatics and Current Electricity,Electric Charges and Fields,Electric flux,Active,3725
+880,JEE,Physics,OPTICS,Wave Optics,Huygens wave theory,Active,3714
+881,JEE,Physics,OPTICS,Wave Optics,Principle of linear superposition,Active,3715
+882,JEE,Physics,OPTICS,Wave Optics,Young's double slit experiment,Active,3716
+883,JEE,Physics,OPTICS,Wave Optics,Geometric and optical path,Active,3717
+884,JEE,Physics,OPTICS,Wave Optics,Resolving power of microscope and telescope,Active,3718
+885,JEE,Physics,OPTICS,Wave Optics,Diffraction and Polarisation,Active,3719
+886,JEE,Physics,OPTICS,Wave Optics,Lloyd's mirror experiment,Active,3720
+887,JEE,Physics,OPTICS,Ray Optics,REFLECTION,Active,3711
+888,JEE,Physics,OPTICS,Ray Optics,REFRACTION,Active,3712
+889,JEE,Physics,OPTICS,Ray Optics,OPTICAL INSTRUMENTS AND HUMAN EYE,Active,3713
+890,JEE,Physics,Thermodynamics,Thermodynamic Processes,Thermodynamic Processes,Active,3707
+891,JEE,Physics,Thermodynamics,Thermodynamic Processes,Laws of Thermodynamics,Active,3708
+892,JEE,Physics,Thermodynamics,Thermodynamic Processes,Heat Engine and Refrigerators,Active,3709
+893,JEE,Physics,Thermodynamics,Thermodynamic Processes,Heat and Work,Active,3710
+894,JEE,Physics,Thermodynamics,Kinetic Theory of Gases,Molecular Theory,Active,3704
+895,JEE,Physics,Thermodynamics,Kinetic Theory of Gases,Gas Laws,Active,3705
+896,JEE,Physics,Thermodynamics,Kinetic Theory of Gases,Thermodynamic Processes,Active,3706
+897,JEE,Physics,Thermodynamics,Transmission of Heat,Conduction,Active,3701
+898,JEE,Physics,Thermodynamics,Transmission of Heat,Radiation and Convection,Active,3702
+899,JEE,Physics,Thermodynamics,Transmission of Heat,Convection,Active,3703
+900,JEE,Physics,Thermodynamics,"Thermometry, Thermal Expansion and Calorimetry",Thermometry,Active,3698
+901,JEE,Physics,Thermodynamics,"Thermometry, Thermal Expansion and Calorimetry",Thermal Expansion,Active,3699
+902,JEE,Physics,Thermodynamics,"Thermometry, Thermal Expansion and Calorimetry",Calorimetry,Active,3700
+903,JEE,Physics,MECHANICS -2,Gravitation,Kepler's Law,Active,3693
+904,JEE,Physics,MECHANICS -2,Gravitation,Newton's Law of Gravitation,Active,3694
+905,JEE,Physics,MECHANICS -2,Gravitation,Gravity,Active,3695
+906,JEE,Physics,MECHANICS -2,Gravitation,Gravitational potential,Active,3696
+907,JEE,Physics,MECHANICS -2,Gravitation,Satellites,Active,3697
+908,JEE,Physics,MECHANICS -2,Mechanical Properties of Solids,Stress and Strain,Active,3690
+909,JEE,Physics,MECHANICS -2,Mechanical Properties of Solids,Elastic Modulus & Poisons Ratio,Active,3691
+910,JEE,Physics,MECHANICS -2,Mechanical Properties of Fluids,Pressure,Active,3684
+911,JEE,Physics,MECHANICS -2,Mechanical Properties of Fluids,Force on surface immersed in liquid,Active,3685
+912,JEE,Physics,MECHANICS -2,Mechanical Properties of Fluids,Fluid in uniformly accelerated motion,Active,3686
+913,JEE,Physics,MECHANICS -2,Mechanical Properties of Fluids,Archimedes principle,Active,3687
+914,JEE,Physics,MECHANICS -2,Mechanical Properties of Fluids,Flow of Liquid,Active,3688
+915,JEE,Physics,MECHANICS -2,Mechanical Properties of Fluids,Surface tension,Active,3689
+916,JEE,Physics,MECHANICS -2,System of Particles and Rotational Motion,Rotational motion,Active,3678
+917,JEE,Physics,MECHANICS -2,System of Particles and Rotational Motion,Rolling motion,Active,3679
+918,JEE,Physics,MECHANICS -2,System of Particles and Rotational Motion,Moment of inertia,Active,3680
+919,JEE,Physics,MECHANICS -2,System of Particles and Rotational Motion,Mechanics of Rotational Motion,Active,3681
+920,JEE,Physics,MECHANICS -2,System of Particles and Rotational Motion,Angular momentum,Active,3682
+921,JEE,Physics,MECHANICS -2,System of Particles and Rotational Motion,Energy,Active,3683
+922,JEE,Physics,MECHANICS -2,"Center of Mass , Conservation of Linear Momentum and Collision",Centre of mass,Active,3669
+923,JEE,Physics,MECHANICS -2,"Center of Mass , Conservation of Linear Momentum and Collision",Linear momentum,Active,3670
+924,JEE,Physics,MECHANICS -2,"Center of Mass , Conservation of Linear Momentum and Collision",Impulse,Active,3671
+925,JEE,Physics,MECHANICS -2,"Center of Mass , Conservation of Linear Momentum and Collision",Collision,Active,3672
+926,JEE,Physics,MECHANICS -1,Work Power Energy,Work,Active,3663
+927,JEE,Physics,MECHANICS -1,Work Power Energy,Potential energy,Active,3665
+928,JEE,Physics,MECHANICS -1,Work Power Energy,Energy,Active,3666
+929,JEE,Physics,MECHANICS -1,Work Power Energy,Vertical Circular Motion,Active,3667
+930,JEE,Physics,MECHANICS -1,Work Power Energy,Power,Active,3668
+931,JEE,Physics,MECHANICS -1,Laws of Motion and friction,Equilibrium,Active,3657
+932,JEE,Physics,MECHANICS -1,Laws of Motion and friction,Laws of motion in non inertial frame of reference,Active,3658
+933,JEE,Physics,MECHANICS -1,Laws of Motion and friction,Constraint relation,Active,3659
+934,JEE,Physics,MECHANICS -1,Laws of Motion and friction,Spring force,Active,3660
+935,JEE,Physics,MECHANICS -1,Laws of Motion and friction,Friction,Active,3661
+936,JEE,Physics,MECHANICS -1,Laws of Motion and friction,Circular Motion,Active,3662
+937,JEE,Physics,MECHANICS -1,Laws of Motion and friction,Laws of motion,Active,3655
+938,JEE,Physics,MECHANICS -1,Laws of Motion and friction,Momentum and Impulse,Active,3656
+939,JEE,Physics,MECHANICS -1,Motion in a plane,Projectile motion,Active,3651
+940,JEE,Physics,MECHANICS -1,Motion in a plane,Relative Motion,Active,3652
+941,JEE,Physics,MECHANICS -1,Motion in a plane,Circular motion,Active,3653
+942,JEE,Physics,MECHANICS -1,Motion in a straight line,Distance and displacement,Active,3643
+943,JEE,Physics,MECHANICS -1,Motion in a straight line,Speed and velocity,Active,3644
+944,JEE,Physics,MECHANICS -1,Motion in a straight line,Acceleration,Active,3645
+945,JEE,Physics,MECHANICS -1,Motion in a straight line,Motion in a straight line,Active,3646
+946,JEE,Physics,MECHANICS -1,Motion in a straight line,Equations of motion,Active,3647
+947,JEE,Physics,MECHANICS -1,Motion in a straight line,Motion under gravity,Active,3648
+948,JEE,Physics,MECHANICS -1,Motion in a straight line,Relative motion in one dimension,Active,3649
+949,JEE,Physics,MECHANICS -1,Motion in a straight line,Graphs,Active,3650
+950,JEE,Physics,MECHANICS -1,Vectors,Algebra of Vectors,Active,3642
+951,JEE,Physics,MECHANICS -1,Basic Mathematics,Derivative of a function,Active,3639
+952,JEE,Physics,MECHANICS -1,Basic Mathematics,Integration,Active,3640
+953,JEE,Physics,MECHANICS -1,Dimensions and Measurement,Units and Dimensions,Active,3637
+954,JEE,Physics,MECHANICS -1,Dimensions and Measurement,Measurements,Active,3638
+955,JEE,Physics,MODERN PHYSICS,Communication System,Propagation of Electromagnetic Waves,Active,3634
+956,JEE,Physics,MODERN PHYSICS,Communication System,Modulation and Demodulation,Active,3635
+957,JEE,Physics,MODERN PHYSICS,Semiconductor Electronics,Semiconductors,Active,3630
+958,JEE,Physics,MODERN PHYSICS,Semiconductor Electronics,p-n junction Diode & its Characteristics,Active,3631
+959,JEE,Physics,MODERN PHYSICS,Semiconductor Electronics,Junction Transistor & Its Characteristics,Active,3632
+960,JEE,Physics,MODERN PHYSICS,Semiconductor Electronics,Digital electronics and logic gates,Active,3633
+961,JEE,Physics,MODERN PHYSICS,Nuclei,Nuclear structure and Energy,Active,3626
+962,JEE,Physics,MODERN PHYSICS,Nuclei,Radioactivity,Active,3628
+963,JEE,Physics,MODERN PHYSICS,Nuclei,Nuclear reactions,Active,3629
+964,JEE,Physics,MODERN PHYSICS,Atoms,Bohr's model of hydrogen Atom,Active,3622
+965,JEE,Physics,MODERN PHYSICS,Atoms,Atomic Spectrum,Active,3623
+966,JEE,Physics,MODERN PHYSICS,Atoms,Xrays,Active,3625
+967,JEE,Physics,MODERN PHYSICS,Dual Nature,Matter waves,Active,3618
+968,JEE,Physics,MODERN PHYSICS,Dual Nature,Photo electric effect,Active,3619
+969,JEE,Mathematics,Integral Calculus,Indefinite Integration,Basics of Indefinite Integrals,Active,3606
+970,JEE,Mathematics,Integral Calculus,Indefinite Integration,Methods of Integration,Active,3607
+971,JEE,Mathematics,Integral Calculus,Indefinite Integration,Special Algebraic Integrations,Active,3608
+972,JEE,Mathematics,Integral Calculus,Indefinite Integration,Special Trigonometric Integrations,Active,3609
+973,JEE,Mathematics,Vector and 3D,Vector Algebra,Basics of Vectors,Active,3590
+974,JEE,Mathematics,Vector and 3D,Vector Algebra,Scalar and Vector Products,Active,3592
+975,JEE,Mathematics,Vector and 3D,Vector Algebra,Scalar and Vector Triple Products,Active,3594
+976,JEE,Mathematics,Vector and 3D,Vector Algebra,Vector Equations and Other Vector Concepts,Active,3595
+977,JEE,Mathematics,Integral Calculus,Differential Equations,Basics of Differential Equations,Active,3583
+978,JEE,Mathematics,Integral Calculus,Differential Equations,Variable Separable and Homogeneous Differential Equations,Active,3585
+979,JEE,Mathematics,Integral Calculus,Differential Equations,Linear Differential Equations and Exact Differential Equations,Active,3587
+980,JEE,Mathematics,Integral Calculus,Differential Equations,Application of Differential Equations and Other Differential Equation Concepts,Active,3589
+981,JEE,Mathematics,Integral Calculus,Area under Curves,Area Bounded by Curves,Active,3582
+982,JEE,Mathematics,Integral Calculus,Definite Integration,Basics of Definite Integrals,Active,3579
+983,JEE,Mathematics,Integral Calculus,Definite Integration,Properties of Definite Integrals,Active,3580
+984,JEE,Mathematics,Integral Calculus,Definite Integration,Other Definite Integration Concepts,Active,3581
+985,JEE,Mathematics,Differential Calculus,Differential Coefficient,Basics of Differentiation,Active,3569
+986,JEE,Mathematics,Differential Calculus,Differential Coefficient,Rules of Differentiation,Active,3570
+987,JEE,Mathematics,Differential Calculus,Differential Coefficient,Higher Order Derivatives and Other Derivative Concepts,Active,3571
+988,JEE,Mathematics,Differential Calculus,Limits,Basics of Limits,Active,3563
+989,JEE,Mathematics,Differential Calculus,Limits,Standard Methods of Evaluation of Limits,Active,3564
+990,JEE,Mathematics,Differential Calculus,Function,Basics of Functions and Classification of Functions,Active,3556
+991,JEE,Mathematics,Differential Calculus,Function,Elementary Functions,Active,3557
+992,JEE,Mathematics,Differential Calculus,Function,Transformation of Graphs,Active,3558
+993,JEE,Mathematics,Differential Calculus,Function,"Even, Odd and Periodic Function",Active,3559
+994,JEE,Mathematics,Differential Calculus,Function,"Composite Function, Inverse of a Function and Other Function Concepts",Active,3561
+995,JEE,Mathematics,Coordinate Geometry,Parabola,Sections of a Cone,InActive,3542
+996,JEE,Mathematics,Coordinate Geometry,Parabola,Basics of Parabola,InActive,3543
+997,JEE,Mathematics,Coordinate Geometry,Parabola,Parabola and a Point & Parabola and a Line,Active,3544
+998,JEE,Mathematics,Coordinate Geometry,Parabola,Tangent of Parabola,Active,3545
+999,JEE,Mathematics,Coordinate Geometry,Parabola,Normal of Parabola,Active,3546
+1000,JEE,Mathematics,Coordinate Geometry,Parabola,"Pair of Tangent, Chord of Contact and Chord with Midpoint for Parabola",Active,3547
+1001,JEE,Mathematics,Coordinate Geometry,Parabola,Interaction between Conics and Properties of Parabola,Active,3548
+1002,JEE,Mathematics,Coordinate Geometry,Hyperbola,Basics of Hyperbola,InActive,3524
+1003,JEE,Mathematics,Coordinate Geometry,Hyperbola,Hyperbola and a Point and Hyperbola and a Line,InActive,3526
+1004,JEE,Mathematics,Coordinate Geometry,Hyperbola,Tangent and Normal of Hyperbola,Active,3527
+1005,JEE,Mathematics,Coordinate Geometry,Hyperbola,"Pair of Tangent, Chord of Contact and Chord with Midpoint for Hyperbola",Active,3528
+1006,JEE,Mathematics,Coordinate Geometry,Hyperbola,Interaction between Two Conics and Properties of Hyperbola,Active,3529
+1007,JEE,Mathematics,Coordinate Geometry,Hyperbola,Rectangular Hyperbola,Active,3530
+1008,JEE,Mathematics,Coordinate Geometry,Ellipse,Basics of Ellipse,InActive,3519
+1009,JEE,Mathematics,Coordinate Geometry,Ellipse,Ellipse and a Point and Ellipse and a Line,InActive,3520
+1010,JEE,Mathematics,Coordinate Geometry,Ellipse,Tangent and Normal of Ellipse,Active,3521
+1011,JEE,Mathematics,Coordinate Geometry,Ellipse,"Pair of Tangent, Chord of Contact and Chord with Midpoint for Ellipse",Active,3522
+1012,JEE,Mathematics,Coordinate Geometry,Ellipse,Interaction between Conics and Properties of Ellipse,Active,3523
+1013,JEE,Mathematics,Trigonometry,Heights and Distances,Heights and Distances,Active,3518
+1014,JEE,Mathematics,Algebra,Matrices and Determinants,Basics of Matrices,InActive,3500
+1015,JEE,Mathematics,Algebra,Matrices and Determinants,Algebra of Matrices,InActive,3501
+1016,JEE,Mathematics,Algebra,Matrices and Determinants,Symmetric and Skew-Symmetric Matrices,Active,3502
+1017,JEE,Mathematics,Algebra,Matrices and Determinants,Determinant of a Square Matrix and its Properties,Active,3503
+1018,JEE,Mathematics,Algebra,Matrices and Determinants,Adjoint and Inverse of a Matrix,Active,3505
+1019,JEE,Mathematics,Algebra,Matrices and Determinants,Systems of Linear Equations,Active,3506
+1020,JEE,Mathematics,Algebra,Matrices and Determinants,Characteristic Equation and Other Miscellaneous Concepts,Active,3507
+1021,JEE,Mathematics,Algebra,Binomial Theorem,Binomial Theorem for Positive Integral Exponent,Active,3495
+1022,JEE,Mathematics,Algebra,Binomial Theorem,Special Terms in Binomial Expansion for Positive Integral Exponent,Active,3496
+1023,JEE,Mathematics,Algebra,Binomial Theorem,Series involving Binomial Coefficients,Active,3497
+1024,JEE,Mathematics,Algebra,Binomial Theorem,Binomial Theorem for Negative or Fractional Exponent,Active,3498
+1025,JEE,Mathematics,Algebra,Binomial Theorem,Multinomial Theorem,Active,3499
+1026,JEE,Mathematics,Algebra,Quadratic Equations,Basic Concepts and Important Definitions,Active,3489
+1027,JEE,Mathematics,Algebra,Quadratic Equations,Quadratic Equation and its Roots,Active,3490
+1028,JEE,Mathematics,Algebra,Quadratic Equations,Nature of Roots and Common Roots,Active,3491
+1029,JEE,Mathematics,Algebra,Quadratic Equations,Range and Graph of Quadratic Expressions,Active,3492
+1030,JEE,Mathematics,Algebra,Quadratic Equations,Location of Roots,Active,3493
+1031,JEE,Mathematics,Algebra,Quadratic Equations,Higher Degree Polynomials and Other Miscellaneous Concepts,Active,3494
+1032,JEE,Mathematics,Algebra,Probability,Basics of Probability,Active,3484
+1033,JEE,Mathematics,Algebra,Probability,Addition Theorem of Probability,Active,3485
+1034,JEE,Mathematics,Algebra,Probability,Conditional Probability and Independent & Dependent Events,Active,3486
+1035,JEE,Mathematics,Algebra,Probability,Bayes' Theorem and Total Probability Theorem,Active,3487
+1036,JEE,Mathematics,Algebra,Probability,Bernoulli Trials and Binomial Distribution,Active,3488
+1037,JEE,Mathematics,Algebra,Complex Numbers,Basics of Complex Numbers,InActive,3476
+1038,JEE,Mathematics,Algebra,Complex Numbers,Algebra of Complex Numbers,InActive,3477
+1039,JEE,Mathematics,Algebra,Complex Numbers,Representation of Complex Numbers,Active,3478
+1040,JEE,Mathematics,Algebra,Complex Numbers,"Properties of Modulus, Conjugate and Argument",Active,3479
+1041,JEE,Mathematics,Algebra,Complex Numbers,De Moivre's Theorems and Roots of Unity,Active,3481
+1042,JEE,Mathematics,Algebra,Complex Numbers,Geometry of Complex Numbers and Other Miscellaneous Concepts,Active,3483
+1043,JEE,Mathematics,Algebra,Permutation and Combination,Fundamental Principle of Counting,Active,3468
+1044,JEE,Mathematics,Algebra,Permutation and Combination,Permutations,Active,3469
+1045,JEE,Mathematics,Algebra,Permutation and Combination,Combinations,Active,3470
+1046,JEE,Mathematics,Algebra,Permutation and Combination,Circular Permutations,Active,3471
+1047,JEE,Mathematics,Algebra,Permutation and Combination,Selection of Mixed Objects and Divisor Concepts,Active,3472
+1048,JEE,Mathematics,Algebra,Permutation and Combination,"Division, Distribution and Multinomial Theorem",Active,3473
+1049,JEE,Mathematics,Algebra,Permutation and Combination,Geometrical Application of Permutations and Combinations,Active,3474
+1050,JEE,Mathematics,Algebra,Permutation and Combination,Derangements and Other Miscellaneous Concepts,Active,3475
+1051,JEE,Mathematics,Algebra,Sequences and Series,Arithmetic Progressions or AP,Active,3462
+1052,JEE,Mathematics,Algebra,Sequences and Series,Geometric Progressions or GP,Active,3463
+1053,JEE,Mathematics,Algebra,Sequences and Series,Harmonic Progressions or HP,Active,3464
+1054,JEE,Mathematics,Algebra,Sequences and Series,Arithmetico-Geometric Progressions or AGP,Active,3465
+1055,JEE,Mathematics,Algebra,Sequences and Series,"A.M., G.M.,H.M. Relations",Active,3466
+1056,JEE,Mathematics,Algebra,Sequences and Series,Miscellaneous Series,Active,3467
+1057,JEE,Mathematics,Algebra,Mathematical Reasoning,Basics of Mathematical Reasoning,InActive,3459
+1058,JEE,Mathematics,Algebra,Mathematical Reasoning,Definition of Logical Connectives/Operations,InActive,3460
+1059,JEE,Mathematics,Algebra,Mathematical Reasoning,Algebra of Statements,Active,3461
+1060,JEE,Mathematics,Algebra,Statistics,Measures of Central Tendency,Active,3457
+1061,JEE,Mathematics,Algebra,Statistics,Measures of Dispersion,Active,3458
+1062,JEE,Mathematics,Algebra,"Set, Relation, Interval and Logarithm",Basics of Sets,InActive,3448
+1063,JEE,Mathematics,Algebra,"Set, Relation, Interval and Logarithm",Types of Sets,InActive,3449
+1064,JEE,Mathematics,Algebra,"Set, Relation, Interval and Logarithm",Algebra of Sets,InActive,3450
+1065,JEE,Mathematics,Algebra,"Set, Relation, Interval and Logarithm",Interval and Wavy Curves Method,Active,3451
+1066,JEE,Mathematics,Algebra,"Set, Relation, Interval and Logarithm",Logarithm and its Properties,Active,3452
+1067,JEE,Mathematics,Algebra,"Set, Relation, Interval and Logarithm",Basics of Relations,Active,3453
+1068,JEE,Mathematics,Algebra,"Set, Relation, Interval and Logarithm",Types of Relations,Active,3454
+1069,JEE,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Properties of Hydrogen,Active,3440
+1070,JEE,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Dihydrogen and its preparation,Active,3441
+1071,JEE,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Hydrides,Active,3443
+1072,JEE,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Water- Structure and Properties,Active,3444
+1073,JEE,Chemistry,Inorganic Chemistry(IOC-1),Hydrogen,Hydrogen Peroxide and its uses,Active,3447
+1074,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Chemical Properties of Group 1 Elements,Active,3430
+1075,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Uses of Group 1 and 2 Elements,Active,3431
+1076,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Important Compounds of Group 1 Elements,Active,3432
+1077,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Anomalous Properties of Lithium and Beryllium,Active,3433
+1078,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",General Introduction of Group 2 Elements,Active,3434
+1079,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Physical Properties of Group 2 Elements,Active,3435
+1080,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Chemical Properties of Group 2 Elements,Active,3436
+1081,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The s-Block Elements (Groups-1,2)",Important Compounds of Group 2 Elements,Active,3437
+1082,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Introduction of Group 13 Elements,Active,3420
+1083,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Physical Properties of Group 13 Elements,Active,3421
+1084,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Chemical Properties of Group 13 Elements,Active,3422
+1085,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Important Compounds of Group 13 Elements,Active,3423
+1086,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Uses of Group 13 and 14 Elements,Active,3424
+1087,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Introduction of Group 14 Elements,Active,3425
+1088,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Physical Properties of Group 14 Elements,Active,3426
+1089,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Chemical Properties of Group 14 Elements,Active,3427
+1090,JEE,Chemistry,Inorganic Chemistry(IOC-1),"The P-Block elements (Groups 13, 14)",Important Compounds of Group 14 Elements,Active,3428
+1091,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Octet Rule,Active,3411
+1092,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Covalent Bonding,Active,3412
+1093,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Ionic Bond,Active,3413
+1094,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Bond Parameters and its applications,Active,3414
+1095,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Dipole Moment,Active,3415
+1096,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Hydrogen Bonding and its Application,Active,3416
+1097,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Hybridisation and its Applications,Active,3417
+1098,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,The Valence Shell Electron Pair Repulsion (VSEPR) Theory,Active,3418
+1099,JEE,Chemistry,Inorganic Chemistry(IOC-1),Chemical Bonding,Molecular Orbital Theory (MOT) and its applications,Active,3419
+1100,JEE,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,History of The Periodic Table,Active,3404
+1101,JEE,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Classification of Periodic Table,Active,3405
+1102,JEE,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Modern Periodic Law,Active,3406
+1103,JEE,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Electronic Configurations and Types of Elements in Periodic Table,Active,3407
+1104,JEE,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Periodic Trends,Active,3408
+1105,JEE,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Radius and Its Types,Active,3409
+1106,JEE,Chemistry,Inorganic Chemistry(IOC-1),Periodic Table,Ionization Enthalpy and its Applications,Active,3410
+1107,JEE,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Environmental Pollution,Active,3397
+1108,JEE,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Atmospheric Pollution,Active,3398
+1109,JEE,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Water Pollution,Active,3399
+1110,JEE,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Soil Pollution,Active,3400
+1111,JEE,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Industrial Waste,Active,3401
+1112,JEE,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Techniques to Control Environmental Pollution,Active,3402
+1113,JEE,Chemistry,Inorganic Chemistry(IOC-1),Environmental Chemistry,Green Chemistry,Active,3403
+1114,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Models of Atoms,Active,3388
+1115,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Discovery of electrons. protons and neutrons,Active,3389
+1116,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Electromagnetic Radiation and its nature,Active,3390
+1117,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Electromagnetic Spectrum,Active,3391
+1118,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Particle Nature of Light,Active,3392
+1119,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Photoelectric Effect and its applications,Active,3393
+1120,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Bohr's Model for Hydrogen Atom,Active,3394
+1121,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Quantum Mechanical Model of the Atom,Active,3395
+1122,JEE,Chemistry,Physical Chemistry(PC-1),Structure of Atom,Rules for filling of Electrons in Orbitals,Active,3396
+1123,JEE,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Oxidation and Reduction,Active,3381
+1124,JEE,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Calculation of Oxidation Number,Active,3382
+1125,JEE,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Types of Redox Reactions,Active,3383
+1126,JEE,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Balancing of Redox Reactions,Active,3384
+1127,JEE,Chemistry,Physical Chemistry(PC-1),Redox Reactions,Equivalent Concept,Active,3387
+1128,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Basics of Equilibrium,Active,3371
+1129,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Types of Equilibrium,Active,3372
+1130,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Equilibrium in Physical Processes,Active,3373
+1131,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Chemical Equilibrium and its properties,Active,3374
+1132,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Law of Chemical Equilibrium and Equilibrium Constants,Active,3375
+1133,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Equilibrium Constants and its application,Active,3376
+1134,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Application of Equilibrium Constant,Active,3377
+1135,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Le chatelier's principle,Active,3378
+1136,JEE,Chemistry,Physical Chemistry(PC-1),Chemical Equilibrium,Thermodynamics of Equilibrium and its applications,Active,3379
+1137,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,States of Matter,Active,3359
+1138,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Measurable Properties of Gases,Active,3360
+1139,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Intermolecular Forces,Active,3361
+1140,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Gaseous Laws and Ideal Gas Equation,Active,3362
+1141,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Dalton's Law of Partial Pressure,Active,3363
+1142,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Kinetic Theory of Gases and Molecular Speeds,Active,3364
+1143,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Real Gas,Active,3365
+1144,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Van Der Waals Equation and its various forms,Active,3367
+1145,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Liquefaction of Gases and its applications,Active,3368
+1146,JEE,Chemistry,Physical Chemistry(PC-1),Liquid and Gaseous States of Matter,Vapour Pressure and Surface Tension,Active,3369
+1147,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Ionic Equilibrium in Solution,Active,3351
+1148,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Acids and Bases ionization,Active,3352
+1149,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Solubility Equilibria of Sparingly Soluble Salts,Active,3353
+1150,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,"Acids, Bases and Salts",Active,3354
+1151,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Ionic Product of Water,Active,3355
+1152,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,pH Scale and its applications,Active,3356
+1153,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Buffer Solutions and its applications,Active,3357
+1154,JEE,Chemistry,Physical Chemistry(PC-1),Ionic Equilibrium,Hydrolysis of Salts and pH calculation of their Solutions,Active,3358
+1155,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Basics of Thermodynamics,Active,3341
+1156,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,First Law of Thermodynamics and its applications,Active,3343
+1157,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Enthalpy Change of a Reaction,Active,3344
+1158,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Different Types of Enthalpies,Active,3345
+1159,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Hess's Law of Constant Heat Summation,Active,3346
+1160,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Spontaneity and its applications,Active,3348
+1161,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Entropy and Second Law of Thermodynamics,Active,3349
+1162,JEE,Chemistry,Physical Chemistry(PC-1),Thermodynamics,Relation between the Gibbs Energy Change and Equilibrium,Active,3350
+1163,JEE,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Uncertainty in Measurement,Active,3332
+1164,JEE,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Atomic and Molecular Mass,Active,3335
+1165,JEE,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Mole Concept,Active,3336
+1166,JEE,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Calculation of Empirical and Molecular Formulae,Active,3337
+1167,JEE,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Chemical Equations and Stoichiometry and its applications,Active,3339
+1168,JEE,Chemistry,Physical Chemistry(PC-1),Some Basic Concepts of Chemistry,Concentration Terms,Active,3340
+1169,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,General Introduction of Organic Chemistry,Active,3312
+1170,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Concepts in Organic Reaction Mechanism,Active,3313
+1171,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Homolytic and Heterolytic Fission,Active,3314
+1172,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Electronic Effects and its applications in acids and bases,Active,3315
+1173,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Reaction Intermediates,Active,3316
+1174,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Application of Electronic Effect,Active,3317
+1175,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Resonance and its applications,Active,3318
+1176,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Types of Organic Reactions,Active,3319
+1177,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Aromaticity and its applications,Active,3320
+1178,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Classification of Organic Compounds,Active,3321
+1179,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,IUPAC Nomenclature of Organic Compounds,Active,3322
+1180,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Isomerism in Organic Compounds,Active,3324
+1181,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Structural Isomerism and its types,Active,3325
+1182,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Stereoisomerism and its classification,Active,3326
+1183,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Purification Processes and methods of purification,Active,3327
+1184,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Purification of Organic Compounds,Active,3328
+1185,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Qualitative Analysis of Organic Compounds,Active,3329
+1186,JEE,Chemistry,Organic Chemistry(OC-1),Organic Chemistry- Some Basic Principles and Techniques,Quantitative Analysis of Organic Compounds,Active,3330
+1187,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation of Alkenes,Active,3302
+1188,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Physical Properties of Alkenes,Active,3303
+1189,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Chemical Properties of Alkenes,Active,3304
+1190,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation of Alkynes,Active,3305
+1191,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Physical Properties of Alkynes,Active,3306
+1192,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Chemical Properties of Alkynes,Active,3307
+1193,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Introduction of Arenes or Aromatic Hydrocarbons,Active,3308
+1194,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation Method of Aromatic Hydrocarbons,Active,3309
+1195,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Physical Properties of Aromatic Hydrocarbons,Active,3310
+1196,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Chemical Properties of Aromatic Hydrocarbons,Active,3311
+1197,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,"Alkanes, Alkenes and Alkynes",Active,3298
+1198,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Preparation of Alkanes,Active,3299
+1199,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Physical Properties of Alkanes,Active,3300
+1200,JEE,Chemistry,Organic Chemistry(OC-1),Hydrocarbons,Chemical Properties of Alkanes,Active,3301
+1201,JEE,Chemistry,Organic Chemistry(OC-2),Polymers,Polymers and its classification,Active,3291
+1202,JEE,Chemistry,Organic Chemistry(OC-2),Polymers,Classification of Polymers,Active,3292
+1203,JEE,Chemistry,Organic Chemistry(OC-2),Polymers,Methods of Polymerisation,Active,3293
+1204,JEE,Chemistry,Organic Chemistry(OC-2),Polymers,Important Polymers,Active,3294
+1205,JEE,Chemistry,Organic Chemistry(OC-2),Polymers,Molecular Masses calculation of Polymers,Active,3296
+1206,JEE,Chemistry,Organic Chemistry(OC-2),Polymers,Biodegradable Polymers,Active,3297
+1207,JEE,Chemistry,Organic Chemistry(OC-2),Biomolecules,Carbohydrates,Active,3284
+1208,JEE,Chemistry,Organic Chemistry(OC-2),Biomolecules,Glucose,Active,3285
+1209,JEE,Chemistry,Organic Chemistry(OC-2),Biomolecules,Proteins and Amino Acids,Active,3286
+1210,JEE,Chemistry,Organic Chemistry(OC-2),Biomolecules,Enzymes,Active,3287
+1211,JEE,Chemistry,Organic Chemistry(OC-2),Biomolecules,Vitamins,Active,3288
+1212,JEE,Chemistry,Organic Chemistry(OC-2),Biomolecules,Nucleic Acids,Active,3289
+1213,JEE,Chemistry,Organic Chemistry(OC-2),Biomolecules,Hormones,Active,3290
+1214,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Haloalkanes and Haloarenes-Introduction,Active,3273
+1215,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Classification of Haloalkanes and Haloarenes,Active,3274
+1216,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Nomenclature of Haloalkanes and Haloarenes,Active,3275
+1217,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Preparations of Haloalkanes,Active,3277
+1218,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Preparation of Haloarenes,Active,3278
+1219,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Physical Properties of Haloalkanes and Haloarenes,Active,3279
+1220,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Chemical Reactions of Haloalkanes,Active,3280
+1221,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Nucleophilic Substitution Reactions of Haloalkanes and Haloarenes,Active,3281
+1222,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Chemical Reactions of Haloarenes,Active,3282
+1223,JEE,Chemistry,Organic Chemistry(OC-2),Haloalkanes and Haloarenes,Polyhalogen Compounds,Active,3283
+1224,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids","Introduction to Aldehydes, Ketones and Carboxylic Acids",Active,3263
+1225,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Preparation of Aldehydes and Ketones,Active,3264
+1226,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Physical and Chemical Properties of Aldehydes and Ketones,Active,3265
+1227,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Chemical Reactions of Aldehydes and Ketones,Active,3266
+1228,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids","Uses of Aldehydes, Ketones and Carboxylic Acids",Active,3267
+1229,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Introduction to Carboxylic Acids,Active,3268
+1230,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Preparation of Carboxylic Acids and its Derivatives,Active,3269
+1231,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Physical Properties of Carboxylic Acids and its Derivatives,Active,3270
+1232,JEE,Chemistry,Organic Chemistry(OC-2),"Aldehydes, Ketones and Carboxylic Acids",Chemical Properties of Carboxylic Acids and its Derivatives,Active,3271
+1233,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers","Introduction of Alcohols, Phenols, and Ethers",Active,3251
+1234,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Preparation of Alcohols,Active,3252
+1235,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Physical Properties of Alcohols,Active,3253
+1236,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Chemical Properties of Alcohols,Active,3254
+1237,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Important Alcoholic compounds,Active,3255
+1238,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Tests of Alcohols,Active,3256
+1239,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Preparation of Phenols,Active,3257
+1240,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Physical Properties of Phenols,Active,3258
+1241,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Chemical Properties of Phenols,Active,3259
+1242,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Preparation and Properties of Ethers,Active,3260
+1243,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Physical Properties of Ethers,Active,3261
+1244,JEE,Chemistry,Organic Chemistry(OC-2),"Alcohols, Phenols and Ethers",Chemical Properties of Ethers,Active,3262
+1245,JEE,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Drug Action,Active,3248
+1246,JEE,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Chemicals in Food products,Active,3249
+1247,JEE,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Cleansing Action,Active,3250
+1248,JEE,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Drugs and their types,Active,3246
+1249,JEE,Chemistry,Organic Chemistry(OC-2),Chemistry in Everyday Life,Drug-Target Interaction,Active,3247
+1250,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Introduction to Amines,Active,3235
+1251,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Preparation of Amines,Active,3236
+1252,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Physical Properties of Amines,Active,3237
+1253,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Chemical Properties of Amines,Active,3238
+1254,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Chemical Reactions of Amines,Active,3239
+1255,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Introduction to Diazonium Salts,Active,3240
+1256,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Preparation of Diazonium Salts,Active,3241
+1257,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Properties of Diazonium Salts,Active,3242
+1258,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Chemical Reactions of Diazonium Salts,Active,3243
+1259,JEE,Chemistry,Organic Chemistry(OC-2),Amines,Application of Diazonium Salts,Active,3244
+1260,JEE,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Adsorption,Active,3226
+1261,JEE,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Catalysis,Active,3227
+1262,JEE,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Colloids and its preparation,Active,3228
+1263,JEE,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Types of Colloids,Active,3229
+1264,JEE,Chemistry,Physical Chemistry(PC-2),Surface Chemistry,Purification and Properties of Colloidal Solutions,Active,3231
+1265,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrolytic and Metallic Conduction,Active,3213
+1266,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrodes and Electrochemical Series,Active,3214
+1267,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrolytic Cells and Electrolysis,Active,3215
+1268,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Faraday's First and Second Law of Electrolysis,Active,3216
+1269,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Conductance in Electrolytic Solutions,Active,3217
+1270,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Kohlrausch's Law,Active,3218
+1271,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrochemical Cells,Active,3219
+1272,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrode Potential and Standard Electrode Potential,Active,3220
+1273,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Nernst Equation and Its Application,Active,3221
+1274,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Corrosion and Prevention,Active,3222
+1275,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Thermodynamics of Cell and its applications,Active,3223
+1276,JEE,Chemistry,Physical Chemistry(PC-2),Electrochemistry,Electrochemical Cells and Batteries,Active,3224
+1277,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Types of Solids and their properties,Active,3204
+1278,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Crystal Lattice and Unit cells,Active,3205
+1279,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Crystalline Solids and their Properties,Active,3206
+1280,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Ionic Compounds,Active,3207
+1281,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Calculations for Standard Cubical Unit Lattice,Active,3208
+1282,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Packing Efficiency,Active,3209
+1283,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Voids and its types,Active,3210
+1284,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Defects in Solids,Active,3211
+1285,JEE,Chemistry,Physical Chemistry(PC-2),Solid State,Electrical and Magnetic Properties of Solids,Active,3212
+1286,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Solutions-Properties and its Types,Active,3192
+1287,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Osmosis and Osmotic Pressure,Active,3193
+1288,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Concentration Terms for Solutions,Active,3194
+1289,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Solubility,Active,3195
+1290,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Vapour Pressure of Liquid Solutions,Active,3196
+1291,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Raoult's Law and its applications,Active,3197
+1292,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Ideal and Non-ideal Solutions and its properties,Active,3198
+1293,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Colligative Properties,Active,3199
+1294,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Relative Lowering of Vapour Pressure,Active,3200
+1295,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Elevation in Boiling Point,Active,3201
+1296,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Depression in Freezing Point,Active,3202
+1297,JEE,Chemistry,Physical Chemistry(PC-2),Solutions and Colligative properties,Van't Hoff's Factor and its applications,Active,3203
+1298,JEE,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Rate of a Chemical Reaction and its measurement,Active,3185
+1299,JEE,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Factors Influencing Rate of Reaction,Active,3186
+1300,JEE,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Arrhenius Collision Theory,Active,3187
+1301,JEE,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Mechanism of a Chemical Reaction and its application,Active,3188
+1302,JEE,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Determination of Order of Reaction,Active,3189
+1303,JEE,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Integrated Rate Equations of different orders,Active,3190
+1304,JEE,Chemistry,Physical Chemistry(PC-2),Chemical Kinetics,Radioactivity and its applications,Active,3191
+1305,JEE,Chemistry,Inorganic Chemistry(IOC-2),Qualitative Analysis,Basic Terminologies in Qualitative Analysis,Active,3180
+1306,JEE,Chemistry,Inorganic Chemistry(IOC-2),Qualitative Analysis,Preliminary Test for Radicals,Active,3181
+1307,JEE,Chemistry,Inorganic Chemistry(IOC-2),Qualitative Analysis,Tests of Anionic Radicals,Active,3182
+1308,JEE,Chemistry,Inorganic Chemistry(IOC-2),Qualitative Analysis,Tests of Cationic Radicals,Active,3183
+1309,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Occurrence of Elements,Active,3172
+1310,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Concentration of Ores,Active,3173
+1311,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Conversion of Ores into Oxide,Active,3174
+1312,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Thermodynamic and Electrochemical Principles in Metallurgy,Active,3175
+1313,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Ellingham Diagrams,Active,3176
+1314,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Reduction of the Ores,Active,3177
+1315,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Refining of the Ores,Active,3178
+1316,JEE,Chemistry,Inorganic Chemistry(IOC-2),Metallurgy,Extraction of Important Elements,Active,3179
+1317,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",p-Block Elements,Active,3156
+1318,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",General Introduction of Group 15 Elements,Active,3157
+1319,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Physical Properties of Group 15 Elements,Active,3158
+1320,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Chemical Properties of Group 15 Elements,Active,3159
+1321,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",General Introduction of Group 16 Elements,Active,3161
+1322,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Physical and Chemical Properties of Group 16 Elements,Active,3162
+1323,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Important Compounds of Group 15 and 16 Elements,Active,3163
+1324,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",General Introduction of Group 17 Elements,Active,3164
+1325,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Physical and Chemical Properties of Group 17 Elements,Active,3165
+1326,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Important Compounds of Group 17 and 18 Elements,Active,3166
+1327,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",General Introduction of Group 18 Elements,Active,3167
+1328,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Physical Properties of Group 18 Elements,Active,3168
+1329,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Chemical Properties of Group 18 Elements,Active,3169
+1330,JEE,Chemistry,Inorganic Chemistry(IOC-2),"The P-Block Elements (Groups-15, 16, 17, 18)",Uses of Group 17 and 18 Elements,Active,3171
+1331,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Introduction of d- and f-Block Elements,Active,3147
+1332,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Properties of d-Block Elements,Active,3148
+1333,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Important Compounds of Transition Metals,Active,3149
+1334,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Introduction of Lanthanoids,Active,3150
+1335,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Properties of Lanthanoids,Active,3151
+1336,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Introduction of Actinoids,Active,3152
+1337,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Properties of Actinoids,Active,3153
+1338,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,Lanthanoids and Actinoids,Active,3154
+1339,JEE,Chemistry,Inorganic Chemistry(IOC-2),The d- and f-Block Elements,d-Block and f-Block Elements Uses,Active,3155
+1340,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Coordination Compounds and its Terminologies,Active,3136
+1341,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Werner's Theory,Active,3137
+1342,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Ligands and their Types,Active,3138
+1343,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Chelation,Active,3139
+1344,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Nomenclature of Coordination Compounds,Active,3140
+1345,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Isomerism and its Types in Coordination Compounds,Active,3141
+1346,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Valence Bond Theory,Active,3142
+1347,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Crystal Field Theory,Active,3143
+1348,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Chelation and Stability in Coordination Compounds,Active,3144
+1349,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Applications of Coordination Compounds,Active,3145
+1350,JEE,Chemistry,Inorganic Chemistry(IOC-2),Coordination Compounds,Metal Carbonyls,Active,3146
